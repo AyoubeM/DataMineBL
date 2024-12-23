@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    background-color:#3432b6;
+}
+
+#image-container {
+    width: 80%;
+    height: 80%;
+    overflow: auto;
+    border: 2px dashed transparent; /* Bordure invisible */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.image-box {
+    width: 150px; /* Largeur fixe pour chaque carré */
+    height: 150px; /* Hauteur fixe pour chaque carré */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    background-color: gray; /* Fond blanc pour les carrés */
+    border: 1px solid #ddd; /* Optionnel : Bordure grise */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optionnel : ombrage */
+    overflow: hidden; /* Cache l'image qui dépasse */
+}
+
+.image-box img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* L'image s'ajuste sans déformation */
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
