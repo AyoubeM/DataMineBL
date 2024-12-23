@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sommaire des Dossiers</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script>
+        // Sauvegarde la position de défilement avant de quitter la page
+        window.addEventListener("beforeunload", function () {
+            sessionStorage.setItem("scrollPosition", window.scrollY);
+        });
+
+        // Restaure la position de défilement au chargement de la page
+        window.addEventListener("load", function () {
+            const scrollPosition = sessionStorage.getItem("scrollPosition");
+            if (scrollPosition) {
+                window.scrollTo(0, scrollPosition);
+            }
+        });
+    </script>
+</head>
+<body>
+    <header>
+        <h1>Sommaire des Dossiers</h1>
+    </header>
+    <div id="folder-list">
+        {% for folder, images in folders.items() %}
+            <div class="folder">
+                <a href="{{ url_for('show_folder', folder_path=folder) }}">{{ folder }}</a>
+                <span class="image-count">({{ images|length }} images)</span>
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
+
