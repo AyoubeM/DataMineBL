@@ -1,0 +1,2573 @@
+{
+	"m_Bounds": {
+		"m_Center": {
+			"m_X": 0,
+			"m_Y": 0,
+			"m_Z": 0
+		},
+		"m_Extent": {
+			"m_X": 0,
+			"m_Y": 0,
+			"m_Z": 0
+		}
+	},
+	"m_ClipBindingConstant": {
+		"m_GenericBindings": [
+			{
+				"m_Attribute": 1574349066,
+				"m_ClassID": 225,
+				"m_CustomType": 0,
+				"m_IsIntCurve": 0,
+				"m_IsPPtrCurve": 0,
+				"m_IsSerializeReferenceCurve": 0,
+				"m_Path": 804149832,
+				"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 }
+			},
+			{
+				"m_Attribute": 1574349066,
+				"m_ClassID": 225,
+				"m_CustomType": 0,
+				"m_IsIntCurve": 0,
+				"m_IsPPtrCurve": 0,
+				"m_IsSerializeReferenceCurve": 0,
+				"m_Path": 2545252214,
+				"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 }
+			},
+			{
+				"m_Attribute": 1574349066,
+				"m_ClassID": 225,
+				"m_CustomType": 0,
+				"m_IsIntCurve": 0,
+				"m_IsPPtrCurve": 0,
+				"m_IsSerializeReferenceCurve": 0,
+				"m_Path": 2765182366,
+				"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 }
+			},
+			{
+				"m_Attribute": 1574349066,
+				"m_ClassID": 225,
+				"m_CustomType": 0,
+				"m_IsIntCurve": 0,
+				"m_IsPPtrCurve": 0,
+				"m_IsSerializeReferenceCurve": 0,
+				"m_Path": 3880019673,
+				"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 }
+			},
+			{
+				"m_Attribute": 2015549526,
+				"m_ClassID": 114,
+				"m_CustomType": 0,
+				"m_IsIntCurve": 0,
+				"m_IsPPtrCurve": 1,
+				"m_IsSerializeReferenceCurve": 0,
+				"m_Path": 2545252214,
+				"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 350208831926335389 }
+			},
+			{
+				"m_Attribute": 2015549526,
+				"m_ClassID": 114,
+				"m_CustomType": 0,
+				"m_IsIntCurve": 0,
+				"m_IsPPtrCurve": 1,
+				"m_IsSerializeReferenceCurve": 0,
+				"m_Path": 804149832,
+				"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 350208831926335389 }
+			}
+		],
+		"m_PptrCurveMapping": [
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8915194587631341850 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5396628007128772326 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6240405013603462886 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7933378165108789530 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1474537578655231718 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4698653571599651098 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5556574877878955750 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8986748269250916070 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2868843143720578790 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -3491165574095786266 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -874095526764499226 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2905692086381227750 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8408250118604935450 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4794378552207954202 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1942302615547236634 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -3219703304488898842 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4287795519341482266 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 4976723771211886310 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 9120644515419172582 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1112278656077036618 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7765709389492421558 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 3100499299563240522 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8454244485374508106 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1128895730397117514 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2736173805301824586 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7021224683333125046 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2873428427758470070 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -9194760677903795126 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 7798527180918979658 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5474717919144606794 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5131074607061630026 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2387869268588919882 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -6963952316213265334 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 706488636886711370 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8915500341191277642 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -29279992868864950 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7402913670860145590 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1603309563314340790 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 9186949111140285514 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 9060250974983093567 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8226960786114542911 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7736061583254356673 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2672493846977183039 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8039247393776730817 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8852095413999762751 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -5493376085869920961 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2856267615087297217 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8308976976459530945 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 4451648984613977407 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2749708859851078975 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 3243203400130297151 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2698798917521833279 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -3767613327524954817 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8791586730257810113 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -531495813023662785 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 427790003720027455 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -5598664906806198977 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1564705836652166463 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2904833024553778495 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2249871931246274245 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -6035791114357479739 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -235535704212674875 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6414223848757356229 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2221966162442348229 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6921324941146482373 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8738477568128817467 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4391717386694269243 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8503328445072762565 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2988700357700445893 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 3749239726027990725 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2607484017277442363 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6781827640403977925 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7770815285439535419 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 993360836429440709 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 9037783037727434437 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 7705120943326652101 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4974798480659618107 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5880561416985601733 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 620038766821402309 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4643252726277452259 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7190760940651590115 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5820255803096976925 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -6653245525264544227 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 4041391324919254557 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 748240167717850653 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8098819678522134045 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 413871818838461981 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -9075602385351389667 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 161441272120561181 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8689493463270666723 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1872854405575036445 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 7739185984997510685 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4731996049386156515 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 7692397455939358237 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6439129114233884189 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8955737449315742179 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -3763181603652481507 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -9065791927925715427 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -6070126008006652387 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1644427509342040453 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -5876277885686804869 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8035311390838976901 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 694879087465631355 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8318768717018263941 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5179486021535436411 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1897586402715529605 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2333724318939115909 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7038783278596452741 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7411137429246669189 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1268497338791792251 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 17523247334461051 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 3681967068068417147 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1735327417908760187 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 4811083685458841211 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -5087232759668568453 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1903392859879731589 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6658110092959387259 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1307670630056096133 },
+			{ "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2039215348313387397 }
+		]
+	},
+	"m_Compressed": false,
+	"m_CompressedRotationCurves": [
+		
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 },
+	"m_EditorCurves": [
+		
+	],
+	"m_EulerCurves": [
+		
+	],
+	"m_EulerEditorCurves": [
+		
+	],
+	"m_Events": [
+		
+	],
+	"m_FloatCurves": [
+		{
+			"m_Attribute": "m_Alpha",
+			"m_ClassID": 225,
+			"m_Curve": {
+				"m_Curve": [
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 0,
+						"m_Value": 0,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": -Infinity,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 0.5,
+						"m_Value": 1,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 1.5,
+						"m_Value": 1,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 2,
+						"m_Value": 0,
+						"m_WeightedMode": 0
+					}
+				],
+				"m_PostInfinity": 2,
+				"m_PreInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			"m_Flags": 0,
+			"m_Path": "Ring",
+			"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 }
+		},
+		{
+			"m_Attribute": "m_Alpha",
+			"m_ClassID": 225,
+			"m_Curve": {
+				"m_Curve": [
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 0,
+						"m_Value": 0,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": -5.364418E-07,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": -Infinity,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 0.33333334,
+						"m_Value": 1,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 1.6833333,
+						"m_Value": 1,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": 1.8784489E-07,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 2,
+						"m_Value": 0,
+						"m_WeightedMode": 0
+					}
+				],
+				"m_PostInfinity": 2,
+				"m_PreInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			"m_Flags": 0,
+			"m_Path": "Oura",
+			"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 }
+		},
+		{
+			"m_Attribute": "m_Alpha",
+			"m_ClassID": 225,
+			"m_Curve": {
+				"m_Curve": [
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 0,
+						"m_Value": 0,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 1,
+						"m_Value": 1,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 2,
+						"m_Value": 0,
+						"m_WeightedMode": 0
+					}
+				],
+				"m_PostInfinity": 2,
+				"m_PreInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			"m_Flags": 0,
+			"m_Path": "CoreAdd",
+			"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 }
+		},
+		{
+			"m_Attribute": "m_Alpha",
+			"m_ClassID": 225,
+			"m_Curve": {
+				"m_Curve": [
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 0,
+						"m_Value": 0,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 1,
+						"m_Value": 0.3,
+						"m_WeightedMode": 0
+					},
+					{
+						"m_InSlope": 0,
+						"m_InWeight": 0.33333334,
+						"m_OutSlope": 0,
+						"m_OutWeight": 0.33333334,
+						"m_TangentMode": 1,
+						"m_Time": 2,
+						"m_Value": 0,
+						"m_WeightedMode": 0
+					}
+				],
+				"m_PostInfinity": 2,
+				"m_PreInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			"m_Flags": 0,
+			"m_Path": "OuraBg",
+			"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 }
+		}
+	],
+	"m_HasGenericRootTransform": false,
+	"m_HasMotionFloatCurves": false,
+	"m_HideFlags": 0,
+	"m_Legacy": false,
+	"m_MuscleClip": {
+		"m_AverageAngularSpeed": 0,
+		"m_AverageSpeed3": {
+			"m_X": 0,
+			"m_Y": 0,
+			"m_Z": 0
+		},
+		"m_Clip": {
+			"m_Data": {
+				"m_ConstantClip": {
+					"m_Data": [
+						
+					]
+				},
+				"m_DenseClip": {
+					"m_BeginTime": 0,
+					"m_CurveCount": 0,
+					"m_FrameCount": 123,
+					"m_SampleArray": [
+						
+					],
+					"m_SampleRate": 60
+				},
+				"m_StreamedClip": {
+					"m_CurveCount": 4,
+					"m_Data": [
+						4286578687,
+						6,
+						0,
+						0,
+						0,
+						0,
+						0,
+						1,
+						0,
+						0,
+						0,
+						0,
+						2,
+						0,
+						0,
+						0,
+						0,
+						3,
+						0,
+						0,
+						0,
+						0,
+						4,
+						0,
+						0,
+						0,
+						0,
+						5,
+						0,
+						0,
+						0,
+						1114374144,
+						0,
+						4,
+						0,
+						3246391296,
+						1094713344,
+						0,
+						0,
+						1,
+						3260547072,
+						1104674816,
+						0,
+						0,
+						2,
+						3221225472,
+						1077936128,
+						0,
+						0,
+						3,
+						3206125978,
+						1063675495,
+						0,
+						0,
+						1023969417,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1065353216,
+						5,
+						0,
+						0,
+						0,
+						1114636288,
+						1032358025,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1073741824,
+						5,
+						0,
+						0,
+						0,
+						1114898432,
+						1036831949,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1077936128,
+						5,
+						0,
+						0,
+						0,
+						1115160576,
+						1040746633,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1082130432,
+						5,
+						0,
+						0,
+						0,
+						1115422720,
+						1042983595,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1084227584,
+						5,
+						0,
+						0,
+						0,
+						1115684864,
+						1045220557,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1086324736,
+						5,
+						0,
+						0,
+						0,
+						1115815936,
+						1047457519,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1088421888,
+						5,
+						0,
+						0,
+						0,
+						1115947008,
+						1049135241,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1116078080,
+						1049694481,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1090519040,
+						1050253722,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1116209152,
+						1050812962,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1091567616,
+						1051372203,
+						2,
+						1,
+						0,
+						0,
+						0,
+						1065353216,
+						5,
+						0,
+						0,
+						0,
+						1116340224,
+						1051931443,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1092616192,
+						1052490684,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1116471296,
+						1053049924,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1093664768,
+						1053609165,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1116602368,
+						1054168405,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1094713344,
+						1054727646,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1116733440,
+						1055286886,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1095761920,
+						1055846127,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1116864512,
+						1056405367,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1096810496,
+						1056964608,
+						1,
+						0,
+						0,
+						0,
+						0,
+						1065353216,
+						1057244228,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1097859072,
+						5,
+						0,
+						0,
+						0,
+						1116995584,
+						1057803469,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1098907648,
+						5,
+						0,
+						0,
+						0,
+						1117126656,
+						1058362709,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1099431936,
+						5,
+						0,
+						0,
+						0,
+						1117257728,
+						1058921950,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1099956224,
+						5,
+						0,
+						0,
+						0,
+						1117388800,
+						1059481190,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1100480512,
+						5,
+						0,
+						0,
+						0,
+						1117519872,
+						1060040431,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1101004800,
+						5,
+						0,
+						0,
+						0,
+						1117650944,
+						1060599671,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1101529088,
+						5,
+						0,
+						0,
+						0,
+						1117782016,
+						1061158912,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1117913088,
+						1061438532,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1102053376,
+						1061718153,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1118044160,
+						1061997773,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1102577664,
+						1062277393,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1118175232,
+						1062557013,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1103101952,
+						1062836634,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1118306304,
+						1063116254,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1103626240,
+						1063395874,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1118437376,
+						1063675494,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1104150528,
+						1063955115,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1118568448,
+						1064234735,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1104674816,
+						1064514355,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1118699520,
+						1064793975,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1105199104,
+						1065073596,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1118830592,
+						1065353216,
+						3,
+						2,
+						1073741824,
+						3225419776,
+						0,
+						1065353216,
+						3,
+						1058642330,
+						3211159143,
+						0,
+						1050253722,
+						4,
+						0,
+						0,
+						0,
+						1105723392,
+						1065493026,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1118961664,
+						1065632836,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1106247680,
+						1065772646,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1119092736,
+						1065912457,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1106771968,
+						1066052267,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1119223808,
+						1066192077,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1107296256,
+						1066331887,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1119354880,
+						1066471697,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1107558400,
+						1066611507,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1119485952,
+						1066751317,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1107820544,
+						1066891127,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1119617024,
+						1067030938,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1108082688,
+						1067170748,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1119748096,
+						1067310558,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1108344832,
+						1067450368,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1119879168,
+						1067729988,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1108606976,
+						5,
+						0,
+						0,
+						0,
+						1120010240,
+						1068009609,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1108869120,
+						5,
+						0,
+						0,
+						0,
+						1120141312,
+						1068289229,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1109131264,
+						5,
+						0,
+						0,
+						0,
+						1120272384,
+						1068568849,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1109393408,
+						5,
+						0,
+						0,
+						0,
+						1120403456,
+						1068848469,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1109655552,
+						5,
+						0,
+						0,
+						0,
+						1120534528,
+						1069128090,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1109917696,
+						5,
+						0,
+						0,
+						0,
+						1120665600,
+						1069407710,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1110179840,
+						5,
+						0,
+						0,
+						0,
+						1120796672,
+						1069547520,
+						1,
+						0,
+						1098907648,
+						3242196992,
+						0,
+						1065353216,
+						1069687330,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1110441984,
+						1069827140,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1120927744,
+						1069966950,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1110704128,
+						1070106761,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1121058816,
+						1070246571,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1110966272,
+						1070386381,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1121189888,
+						1070526191,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1111228416,
+						1070666001,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1121320960,
+						1070805811,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1111490560,
+						1070945621,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1121452032,
+						1071085431,
+						2,
+						1,
+						1115418240,
+						3253687753,
+						0,
+						1065353216,
+						4,
+						0,
+						0,
+						0,
+						1111752704,
+						1071225242,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1121583104,
+						1071365052,
+						1,
+						4,
+						0,
+						0,
+						0,
+						1112014848,
+						1071504862,
+						1,
+						5,
+						0,
+						0,
+						0,
+						1121714176,
+						1071784482,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1112276992,
+						5,
+						0,
+						0,
+						0,
+						1121845248,
+						1072064102,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1112539136,
+						5,
+						0,
+						0,
+						0,
+						1121976320,
+						1072343723,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1112801280,
+						5,
+						0,
+						0,
+						0,
+						1122107392,
+						1072623343,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1113063424,
+						5,
+						0,
+						0,
+						0,
+						1122238464,
+						1072902963,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1113325568,
+						5,
+						0,
+						0,
+						0,
+						1122369536,
+						1073182583,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1113587712,
+						5,
+						0,
+						0,
+						0,
+						1122500608,
+						1073462204,
+						2,
+						4,
+						0,
+						0,
+						0,
+						1113849856,
+						5,
+						0,
+						0,
+						0,
+						1122631680,
+						1073741824,
+						6,
+						0,
+						0,
+						0,
+						0,
+						0,
+						1,
+						0,
+						0,
+						0,
+						0,
+						2,
+						0,
+						0,
+						0,
+						0,
+						3,
+						0,
+						0,
+						0,
+						0,
+						4,
+						0,
+						0,
+						0,
+						1114112000,
+						5,
+						0,
+						0,
+						0,
+						1122762752,
+						2139095040,
+						0
+					],
+					"m_DiscreteCurveCount": 2
+				}
+			}
+		},
+		"m_CycleOffset": 0,
+		"m_DeltaPose": {
+			"m_DoFArray": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"m_GoalArray": [
+				{
+					"m_HintT": {
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					},
+					"m_HintWeightT": 0,
+					"m_WeightR": 0,
+					"m_WeightT": 0,
+					"m_X": {
+						"m_Q": {
+							"m_W": 1,
+							"m_X": 0,
+							"m_Y": 0,
+							"m_Z": 0
+						},
+						"m_S3": {
+							"m_X": 1,
+							"m_Y": 1,
+							"m_Z": 1
+						},
+						"m_T3": {
+							"m_X": 0,
+							"m_Y": 0,
+							"m_Z": 0
+						}
+					}
+				},
+				{
+					"m_HintT": {
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					},
+					"m_HintWeightT": 0,
+					"m_WeightR": 0,
+					"m_WeightT": 0,
+					"m_X": {
+						"m_Q": {
+							"m_W": 1,
+							"m_X": 0,
+							"m_Y": 0,
+							"m_Z": 0
+						},
+						"m_S3": {
+							"m_X": 1,
+							"m_Y": 1,
+							"m_Z": 1
+						},
+						"m_T3": {
+							"m_X": 0,
+							"m_Y": 0,
+							"m_Z": 0
+						}
+					}
+				},
+				{
+					"m_HintT": {
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					},
+					"m_HintWeightT": 0,
+					"m_WeightR": 0,
+					"m_WeightT": 0,
+					"m_X": {
+						"m_Q": {
+							"m_W": 1,
+							"m_X": 0,
+							"m_Y": 0,
+							"m_Z": 0
+						},
+						"m_S3": {
+							"m_X": 1,
+							"m_Y": 1,
+							"m_Z": 1
+						},
+						"m_T3": {
+							"m_X": 0,
+							"m_Y": 0,
+							"m_Z": 0
+						}
+					}
+				},
+				{
+					"m_HintT": {
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					},
+					"m_HintWeightT": 0,
+					"m_WeightR": 0,
+					"m_WeightT": 0,
+					"m_X": {
+						"m_Q": {
+							"m_W": 1,
+							"m_X": 0,
+							"m_Y": 0,
+							"m_Z": 0
+						},
+						"m_S3": {
+							"m_X": 1,
+							"m_Y": 1,
+							"m_Z": 1
+						},
+						"m_T3": {
+							"m_X": 0,
+							"m_Y": 0,
+							"m_Z": 0
+						}
+					}
+				}
+			],
+			"m_LeftHandPose": {
+				"m_CloseOpen": 0,
+				"m_DoFArray": [
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"m_Grab": 0,
+				"m_GrabX": {
+					"m_Q": {
+						"m_W": 1,
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					},
+					"m_S3": {
+						"m_X": 1,
+						"m_Y": 1,
+						"m_Z": 1
+					},
+					"m_T3": {
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					}
+				},
+				"m_InOut": 0,
+				"m_Override": 0
+			},
+			"m_LookAtPosition": {
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_LookAtWeight": {
+				"m_W": 0,
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_RightHandPose": {
+				"m_CloseOpen": 0,
+				"m_DoFArray": [
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"m_Grab": 0,
+				"m_GrabX": {
+					"m_Q": {
+						"m_W": 1,
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					},
+					"m_S3": {
+						"m_X": 1,
+						"m_Y": 1,
+						"m_Z": 1
+					},
+					"m_T3": {
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					}
+				},
+				"m_InOut": 0,
+				"m_Override": 0
+			},
+			"m_RootX": {
+				"m_Q": {
+					"m_W": 1,
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				"m_S3": {
+					"m_X": 1,
+					"m_Y": 1,
+					"m_Z": 1
+				},
+				"m_T3": {
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				}
+			},
+			"m_TDoFArray": [
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				},
+				{
+					"m_X": 0,
+					"m_Y": 0,
+					"m_Z": 0
+				}
+			]
+		},
+		"m_HeightFromFeet": false,
+		"m_IndexArray": [
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"m_KeepOriginalOrientation": false,
+		"m_KeepOriginalPositionXZ": false,
+		"m_KeepOriginalPositionY": true,
+		"m_LeftFootStartX": {
+			"m_Q": {
+				"m_W": 1,
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_S3": {
+				"m_X": 1,
+				"m_Y": 1,
+				"m_Z": 1
+			},
+			"m_T3": {
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			}
+		},
+		"m_Level": 0,
+		"m_LoopBlend": false,
+		"m_LoopBlendOrientation": false,
+		"m_LoopBlendPositionXZ": false,
+		"m_LoopBlendPositionY": false,
+		"m_LoopTime": true,
+		"m_Mirror": false,
+		"m_OrientationOffsetY": 0,
+		"m_RightFootStartX": {
+			"m_Q": {
+				"m_W": 1,
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_S3": {
+				"m_X": 1,
+				"m_Y": 1,
+				"m_Z": 1
+			},
+			"m_T3": {
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			}
+		},
+		"m_StartAtOrigin": true,
+		"m_StartTime": 0,
+		"m_StartX": {
+			"m_Q": {
+				"m_W": 1,
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_S3": {
+				"m_X": 1,
+				"m_Y": 1,
+				"m_Z": 1
+			},
+			"m_T3": {
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			}
+		},
+		"m_StopTime": 2.0166667,
+		"m_StopX": {
+			"m_Q": {
+				"m_W": 1,
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_S3": {
+				"m_X": 1,
+				"m_Y": 1,
+				"m_Z": 1
+			},
+			"m_T3": {
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			}
+		},
+		"m_ValueArrayDelta": [
+			{
+				"m_Start": 0,
+				"m_Stop": 0
+			},
+			{
+				"m_Start": 0,
+				"m_Stop": 0
+			},
+			{
+				"m_Start": 0,
+				"m_Stop": 0
+			},
+			{
+				"m_Start": 0,
+				"m_Stop": 0
+			},
+			{
+				"m_Start": 0,
+				"m_Stop": 58
+			},
+			{
+				"m_Start": 59,
+				"m_Stop": 118
+			}
+		],
+		"m_ValueArrayReferencePose": [
+			
+		]
+	},
+	"m_MuscleClipInfo": {
+		"m_AdditiveReferencePoseClip": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 },
+		"m_AdditiveReferencePoseTime": 0,
+		"m_CycleOffset": 0,
+		"m_HasAdditiveReferencePose": false,
+		"m_HeightFromFeet": false,
+		"m_KeepOriginalOrientation": false,
+		"m_KeepOriginalPositionXZ": false,
+		"m_KeepOriginalPositionY": true,
+		"m_Level": 0,
+		"m_LoopBlend": false,
+		"m_LoopBlendOrientation": false,
+		"m_LoopBlendPositionXZ": false,
+		"m_LoopBlendPositionY": false,
+		"m_LoopTime": true,
+		"m_Mirror": false,
+		"m_OrientationOffsetY": 0,
+		"m_StartTime": 0,
+		"m_StopTime": 2.0166667
+	},
+	"m_MuscleClipSize": 6060,
+	"m_Name": "rank_symbol_icn4_2_loop",
+	"m_PositionCurves": [
+		
+	],
+	"m_PPtrCurves": [
+		{
+			"m_Attribute": "script_0x7822D856_UsmorHH",
+			"m_ClassID": 114,
+			"m_Curve": [
+				{
+					"m_Time": 0,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8915194587631341850 }
+				},
+				{
+					"m_Time": 0.033333335,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5396628007128772326 }
+				},
+				{
+					"m_Time": 0.06666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6240405013603462886 }
+				},
+				{
+					"m_Time": 0.1,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7933378165108789530 }
+				},
+				{
+					"m_Time": 0.13333334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1474537578655231718 }
+				},
+				{
+					"m_Time": 0.16666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4698653571599651098 }
+				},
+				{
+					"m_Time": 0.2,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5556574877878955750 }
+				},
+				{
+					"m_Time": 0.23333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8986748269250916070 }
+				},
+				{
+					"m_Time": 0.28333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2868843143720578790 }
+				},
+				{
+					"m_Time": 0.31666666,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -3491165574095786266 }
+				},
+				{
+					"m_Time": 0.35,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -874095526764499226 }
+				},
+				{
+					"m_Time": 0.38333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2905692086381227750 }
+				},
+				{
+					"m_Time": 0.41666666,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8408250118604935450 }
+				},
+				{
+					"m_Time": 0.45,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4794378552207954202 }
+				},
+				{
+					"m_Time": 0.48333332,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1942302615547236634 }
+				},
+				{
+					"m_Time": 0.51666665,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -3219703304488898842 }
+				},
+				{
+					"m_Time": 0.55,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4287795519341482266 }
+				},
+				{
+					"m_Time": 0.5833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 4976723771211886310 }
+				},
+				{
+					"m_Time": 0.6166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 9120644515419172582 }
+				},
+				{
+					"m_Time": 0.65,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1112278656077036618 }
+				},
+				{
+					"m_Time": 0.68333334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7765709389492421558 }
+				},
+				{
+					"m_Time": 0.71666664,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 3100499299563240522 }
+				},
+				{
+					"m_Time": 0.76666665,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8454244485374508106 }
+				},
+				{
+					"m_Time": 0.8,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1128895730397117514 }
+				},
+				{
+					"m_Time": 0.8333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2736173805301824586 }
+				},
+				{
+					"m_Time": 0.8666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7021224683333125046 }
+				},
+				{
+					"m_Time": 0.9,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2873428427758470070 }
+				},
+				{
+					"m_Time": 0.93333334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -9194760677903795126 }
+				},
+				{
+					"m_Time": 0.96666664,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 7798527180918979658 }
+				},
+				{
+					"m_Time": 1,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5474717919144606794 }
+				},
+				{
+					"m_Time": 1.0333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5131074607061630026 }
+				},
+				{
+					"m_Time": 1.0666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2387869268588919882 }
+				},
+				{
+					"m_Time": 1.1,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -6963952316213265334 }
+				},
+				{
+					"m_Time": 1.1333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 706488636886711370 }
+				},
+				{
+					"m_Time": 1.1666666,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8915500341191277642 }
+				},
+				{
+					"m_Time": 1.2,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -29279992868864950 }
+				},
+				{
+					"m_Time": 1.2333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7402913670860145590 }
+				},
+				{
+					"m_Time": 1.2833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1603309563314340790 }
+				},
+				{
+					"m_Time": 1.3166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 9186949111140285514 }
+				},
+				{
+					"m_Time": 1.35,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 9060250974983093567 }
+				},
+				{
+					"m_Time": 1.3833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8226960786114542911 }
+				},
+				{
+					"m_Time": 1.4166666,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7736061583254356673 }
+				},
+				{
+					"m_Time": 1.45,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2672493846977183039 }
+				},
+				{
+					"m_Time": 1.4833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8039247393776730817 }
+				},
+				{
+					"m_Time": 1.5166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8852095413999762751 }
+				},
+				{
+					"m_Time": 1.55,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -5493376085869920961 }
+				},
+				{
+					"m_Time": 1.5833334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2856267615087297217 }
+				},
+				{
+					"m_Time": 1.6166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8308976976459530945 }
+				},
+				{
+					"m_Time": 1.65,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 4451648984613977407 }
+				},
+				{
+					"m_Time": 1.6833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2749708859851078975 }
+				},
+				{
+					"m_Time": 1.7166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 3243203400130297151 }
+				},
+				{
+					"m_Time": 1.7666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2698798917521833279 }
+				},
+				{
+					"m_Time": 1.8,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -3767613327524954817 }
+				},
+				{
+					"m_Time": 1.8333334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8791586730257810113 }
+				},
+				{
+					"m_Time": 1.8666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -531495813023662785 }
+				},
+				{
+					"m_Time": 1.9,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 427790003720027455 }
+				},
+				{
+					"m_Time": 1.9333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -5598664906806198977 }
+				},
+				{
+					"m_Time": 1.9666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1564705836652166463 }
+				},
+				{
+					"m_Time": 2,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2904833024553778495 }
+				}
+			],
+			"m_Flags": 2,
+			"m_Path": "Oura",
+			"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 350208831926335389 }
+		},
+		{
+			"m_Attribute": "script_0x7822D856_UsmorHH",
+			"m_ClassID": 114,
+			"m_Curve": [
+				{
+					"m_Time": 0,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2249871931246274245 }
+				},
+				{
+					"m_Time": 0.033333335,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -6035791114357479739 }
+				},
+				{
+					"m_Time": 0.06666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -235535704212674875 }
+				},
+				{
+					"m_Time": 0.1,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6414223848757356229 }
+				},
+				{
+					"m_Time": 0.13333334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2221966162442348229 }
+				},
+				{
+					"m_Time": 0.16666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6921324941146482373 }
+				},
+				{
+					"m_Time": 0.2,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8738477568128817467 }
+				},
+				{
+					"m_Time": 0.23333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4391717386694269243 }
+				},
+				{
+					"m_Time": 0.26666668,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8503328445072762565 }
+				},
+				{
+					"m_Time": 0.3,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 2988700357700445893 }
+				},
+				{
+					"m_Time": 0.33333334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 3749239726027990725 }
+				},
+				{
+					"m_Time": 0.36666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2607484017277442363 }
+				},
+				{
+					"m_Time": 0.4,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6781827640403977925 }
+				},
+				{
+					"m_Time": 0.43333334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7770815285439535419 }
+				},
+				{
+					"m_Time": 0.46666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 993360836429440709 }
+				},
+				{
+					"m_Time": 0.51666665,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 9037783037727434437 }
+				},
+				{
+					"m_Time": 0.55,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 7705120943326652101 }
+				},
+				{
+					"m_Time": 0.5833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4974798480659618107 }
+				},
+				{
+					"m_Time": 0.6166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5880561416985601733 }
+				},
+				{
+					"m_Time": 0.65,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 620038766821402309 }
+				},
+				{
+					"m_Time": 0.68333334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4643252726277452259 }
+				},
+				{
+					"m_Time": 0.71666664,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7190760940651590115 }
+				},
+				{
+					"m_Time": 0.75,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5820255803096976925 }
+				},
+				{
+					"m_Time": 0.78333336,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -6653245525264544227 }
+				},
+				{
+					"m_Time": 0.81666666,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 4041391324919254557 }
+				},
+				{
+					"m_Time": 0.85,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 748240167717850653 }
+				},
+				{
+					"m_Time": 0.8833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 8098819678522134045 }
+				},
+				{
+					"m_Time": 0.9166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 413871818838461981 }
+				},
+				{
+					"m_Time": 0.95,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -9075602385351389667 }
+				},
+				{
+					"m_Time": 0.98333335,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 161441272120561181 }
+				},
+				{
+					"m_Time": 1.0166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8689493463270666723 }
+				},
+				{
+					"m_Time": 1.05,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1872854405575036445 }
+				},
+				{
+					"m_Time": 1.0833334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 7739185984997510685 }
+				},
+				{
+					"m_Time": 1.1166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -4731996049386156515 }
+				},
+				{
+					"m_Time": 1.15,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 7692397455939358237 }
+				},
+				{
+					"m_Time": 1.1833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6439129114233884189 }
+				},
+				{
+					"m_Time": 1.2166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8955737449315742179 }
+				},
+				{
+					"m_Time": 1.25,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -3763181603652481507 }
+				},
+				{
+					"m_Time": 1.2833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -9065791927925715427 }
+				},
+				{
+					"m_Time": 1.3166667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -6070126008006652387 }
+				},
+				{
+					"m_Time": 1.35,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1644427509342040453 }
+				},
+				{
+					"m_Time": 1.3833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -5876277885686804869 }
+				},
+				{
+					"m_Time": 1.4166666,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8035311390838976901 }
+				},
+				{
+					"m_Time": 1.45,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 694879087465631355 }
+				},
+				{
+					"m_Time": 1.4833333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -8318768717018263941 }
+				},
+				{
+					"m_Time": 1.5333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 5179486021535436411 }
+				},
+				{
+					"m_Time": 1.5666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1897586402715529605 }
+				},
+				{
+					"m_Time": 1.6,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2333724318939115909 }
+				},
+				{
+					"m_Time": 1.6333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7038783278596452741 }
+				},
+				{
+					"m_Time": 1.6666666,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -7411137429246669189 }
+				},
+				{
+					"m_Time": 1.7,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1268497338791792251 }
+				},
+				{
+					"m_Time": 1.7333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 17523247334461051 }
+				},
+				{
+					"m_Time": 1.7666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 3681967068068417147 }
+				},
+				{
+					"m_Time": 1.8,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 1735327417908760187 }
+				},
+				{
+					"m_Time": 1.8333334,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 4811083685458841211 }
+				},
+				{
+					"m_Time": 1.8666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -5087232759668568453 }
+				},
+				{
+					"m_Time": 1.9,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1903392859879731589 }
+				},
+				{
+					"m_Time": 1.9333333,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 6658110092959387259 }
+				},
+				{
+					"m_Time": 1.9666667,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -1307670630056096133 }
+				},
+				{
+					"m_Time": 2,
+					"m_Value": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": -2039215348313387397 }
+				}
+			],
+			"m_Flags": 2,
+			"m_Path": "Ring",
+			"m_Script": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 350208831926335389 }
+		}
+	],
+	"m_PrefabAsset": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-d366997a231725fdbe23134dc50087b5", "m_PathID": 0 },
+	"m_RotationCurves": [
+		
+	],
+	"m_SampleRate": 60,
+	"m_ScaleCurves": [
+		
+	],
+	"m_UseHighQualityCurve": true,
+	"m_WrapMode": 0
+}

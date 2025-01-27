@@ -1,0 +1,105 @@
+{
+	"m_BuildTextureStacks": [
+		
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_CustomRenderQueue": 3000,
+	"m_DisabledShaderPasses": [
+		
+	],
+	"m_DoubleSidedGI": false,
+	"m_EnableInstancingVariants": false,
+	"m_HideFlags": 0,
+	"m_InvalidKeywords": [
+		"_ALPHATEST_ON",
+		"_STEREOMODE_NONE"
+	],
+	"m_LightmapFlags": 4,
+	"m_LockedProperties": "",
+	"m_ModifiedSerializedProperties": 0,
+	"m_Name": "AppleWebMaterial",
+	"m_Parent": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_SavedProperties": {
+		"m_Colors": {
+			"_Color": {
+				"m_A": 1,
+				"m_B": 1,
+				"m_G": 1,
+				"m_R": 1
+			},
+			"_CropRect": {
+				"m_A": 0,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_EmissionColor": {
+				"m_A": 1,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_VideoCutoutRect": {
+				"m_A": 0,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			}
+		},
+		"m_Floats": {
+			"_BumpScale": 1,
+			"_ColorMask": 15,
+			"_Cutoff": 0.5,
+			"_DetailNormalMapScale": 1,
+			"_DstBlend": 0,
+			"_EnableGammaCorrection": 0,
+			"_FlipX": 0,
+			"_FlipY": 0,
+			"_Gamma": 0.6,
+			"_GlossMapScale": 1,
+			"_Glossiness": 0.5,
+			"_GlossyReflections": 1,
+			"_Metallic": 0,
+			"_Mode": 1,
+			"_OcclusionStrength": 1,
+			"_OverrideStereoToMono": 0,
+			"_Parallax": 0.02,
+			"_SmoothnessTextureChannel": 0,
+			"_SpecularHighlights": 1,
+			"_SrcBlend": 1,
+			"_Stencil": 0,
+			"_StencilComp": 8,
+			"_StencilOp": 0,
+			"_StencilReadMask": 255,
+			"_StencilWriteMask": 255,
+			"_StereoMode": 0,
+			"_UVSec": 0,
+			"_ZWrite": 1
+		},
+		"m_Ints": {
+			
+		},
+		"m_TexEnvs": {
+			"_MainTex": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "resources.assets", "m_PathID": 0 }
+			}
+		}
+	},
+	"m_Shader": { "m_Collection": "resources.assets", "m_PathID": 183 },
+	"m_StringTagMap": {
+		
+	},
+	"m_ValidKeywords": [
+		
+	]
+}

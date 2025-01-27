@@ -1,0 +1,171 @@
+{
+	"m_BuildTextureStacks": [
+		
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_CustomRenderQueue": -1,
+	"m_DisabledShaderPasses": [
+		
+	],
+	"m_DoubleSidedGI": false,
+	"m_EnableInstancingVariants": false,
+	"m_HideFlags": 0,
+	"m_InvalidKeywords": [
+		
+	],
+	"m_LightmapFlags": 5,
+	"m_LockedProperties": "",
+	"m_ModifiedSerializedProperties": 0,
+	"m_Name": "LiberationSans SDF - Drop Shadow",
+	"m_Parent": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_SavedProperties": {
+		"m_Colors": {
+			"_ClipRect": {
+				"m_A": 32767,
+				"m_B": 32767,
+				"m_G": -32767,
+				"m_R": -32767
+			},
+			"_Color": {
+				"m_A": 1,
+				"m_B": 1,
+				"m_G": 1,
+				"m_R": 1
+			},
+			"_EnvMatrixRotation": {
+				"m_A": 0,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_FaceColor": {
+				"m_A": 1,
+				"m_B": 1,
+				"m_G": 1,
+				"m_R": 1
+			},
+			"_GlowColor": {
+				"m_A": 0.5,
+				"m_B": 0,
+				"m_G": 1,
+				"m_R": 0
+			},
+			"_MaskCoord": {
+				"m_A": 32767,
+				"m_B": 32767,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_OutlineColor": {
+				"m_A": 1,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_ReflectFaceColor": {
+				"m_A": 1,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_ReflectOutlineColor": {
+				"m_A": 1,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_SpecularColor": {
+				"m_A": 1,
+				"m_B": 1,
+				"m_G": 1,
+				"m_R": 1
+			},
+			"_UnderlayColor": {
+				"m_A": 0.5,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			}
+		},
+		"m_Floats": {
+			"_Ambient": 0.5,
+			"_Bevel": 0.5,
+			"_BevelClamp": 0,
+			"_BevelOffset": 0,
+			"_BevelRoundness": 0,
+			"_BevelWidth": 0,
+			"_BumpFace": 0,
+			"_BumpOutline": 0,
+			"_ColorMask": 15,
+			"_CullMode": 0,
+			"_Diffuse": 0.5,
+			"_DiffusePower": 1,
+			"_FaceDilate": 0.1,
+			"_FaceUVSpeedX": 0,
+			"_FaceUVSpeedY": 0,
+			"_GlowInner": 0.05,
+			"_GlowOffset": 0,
+			"_GlowOuter": 0.05,
+			"_GlowPower": 0.75,
+			"_GradientScale": 10,
+			"_LightAngle": 3.1416,
+			"_MaskSoftnessX": 0,
+			"_MaskSoftnessY": 0,
+			"_OutlineSoftness": 0,
+			"_OutlineUVSpeedX": 0,
+			"_OutlineUVSpeedY": 0,
+			"_OutlineWidth": 0.1,
+			"_PerspectiveFilter": 0.875,
+			"_Reflectivity": 10,
+			"_ScaleRatioA": 0.9,
+			"_ScaleRatioB": 0.73125,
+			"_ScaleRatioC": 0.64125,
+			"_ScaleX": 1,
+			"_ScaleY": 1,
+			"_ShaderFlags": 0,
+			"_Sharpness": 0,
+			"_SpecularPower": 2,
+			"_Stencil": 0,
+			"_StencilComp": 8,
+			"_StencilOp": 0,
+			"_StencilReadMask": 255,
+			"_StencilWriteMask": 255,
+			"_TextureHeight": 1024,
+			"_TextureWidth": 1024,
+			"_UnderlayDilate": 0,
+			"_UnderlayOffsetX": 0.5,
+			"_UnderlayOffsetY": -0.5,
+			"_UnderlaySoftness": 0.05,
+			"_VertexOffsetX": 0,
+			"_VertexOffsetY": 0,
+			"_WeightBold": 0.75,
+			"_WeightNormal": 0
+		},
+		"m_Ints": {
+			
+		},
+		"m_TexEnvs": {
+			"_MainTex": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "resources.assets", "m_PathID": 166 }
+			}
+		}
+	},
+	"m_Shader": { "m_Collection": "resources.assets", "m_PathID": 207 },
+	"m_StringTagMap": {
+		
+	},
+	"m_ValidKeywords": [
+		"OUTLINE_ON",
+		"UNDERLAY_ON"
+	]
+}

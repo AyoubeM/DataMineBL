@@ -1,0 +1,1876 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-736eb31eaa1a7ed9d380d6222fa02d5d", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-736eb31eaa1a7ed9d380d6222fa02d5d", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "mtn_idle_01_3.fade",
+	"m_PrefabAsset": { "m_Collection": "cab-736eb31eaa1a7ed9d380d6222fa02d5d", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-736eb31eaa1a7ed9d380d6222fa02d5d", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-736eb31eaa1a7ed9d380d6222fa02d5d", "m_PathID": -5060311835372604520 },
+	"m_Structure": {
+		"MotionName": "Assets/BlazBattle/ModelsLive2D/Development/Live2Ds/Pose/cha_0230202/motions/mtn_idle_01_3.motion3.json",
+		"FadeInTime": 1,
+		"FadeOutTime": 1,
+		"ParameterIds": [
+			"Param",
+			"Param2",
+			"Param3",
+			"Param_Angle_Rotation9",
+			"Param4",
+			"Param5",
+			"Param_Angle_Rotation4",
+			"Param_Angle_Rotation",
+			"Param_Angle_Rotation2",
+			"Param6",
+			"Param7",
+			"Param_Angle_Rotation6",
+			"Param_Angle_Rotation7",
+			"Param_Angle_Rotation8",
+			"Param8",
+			"Param9",
+			"Param_Angle_Rotation13",
+			"Param_Angle_Rotation11",
+			"Param10",
+			"Param_Angle_Rotation14",
+			"Param11",
+			"Param13",
+			"Param12",
+			"Param14",
+			"Param15",
+			"Param_Angle_Rotation15",
+			"Param_Angle_Rotation16",
+			"Param_Angle_Rotation17",
+			"Param16",
+			"Param17",
+			"Part10",
+			"Part"
+		],
+		"ParameterCurves": [
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 13.742,
+						"inSlope": 0,
+						"outSlope": 18.534018,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.5,
+						"value": 24.871,
+						"inSlope": 18.684021,
+						"outSlope": 15.170018,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.4,
+						"value": 30,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.167,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 13.742,
+						"inSlope": 24.396185,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 5.371,
+						"inSlope": 0,
+						"outSlope": 19.470785,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.667,
+						"value": 19.232,
+						"inSlope": 10.754137,
+						"outSlope": 10.321736,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.5,
+						"value": 22,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.5,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 5.371,
+						"inSlope": 16.350016,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": -3.203,
+						"inSlope": 0,
+						"outSlope": -9.860754,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.833,
+						"value": -10,
+						"inSlope": -4.5054083,
+						"outSlope": -5.437785,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.5,
+						"value": -11,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.5,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": -3.203,
+						"inSlope": -9.19201,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0.351,
+						"inSlope": 0,
+						"outSlope": -2.1284535,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.833,
+						"value": -1.153,
+						"inSlope": -1.3037227,
+						"outSlope": -1.0410012,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.833,
+						"value": -1.48,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.333,
+						"value": 1.407,
+						"inSlope": 0,
+						"outSlope": 0.035982117,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0.351,
+						"inSlope": -2.7076488,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1,
+						"value": 17,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3,
+						"value": 9,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 6.976,
+						"inSlope": 0,
+						"outSlope": 23.250025,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.5,
+						"value": 16,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.5,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2.5,
+						"value": 8.747,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.5,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 6.976,
+						"inSlope": 16.608015,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": -0.822,
+						"inSlope": 0,
+						"outSlope": -1.7496268,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.667,
+						"value": -1.799,
+						"inSlope": -1.214394,
+						"outSlope": -0.8062505,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.467,
+						"value": -2,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.333,
+						"value": -0.014,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": -0.822,
+						"inSlope": -1.9025507,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 1.801,
+						"inSlope": 0,
+						"outSlope": -4.9254546,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.167,
+						"value": -4.557,
+						"inSlope": -2.1079717,
+						"outSlope": -2.2364964,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": -5,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.8,
+						"value": 2.656,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 1.801,
+						"inSlope": -5.445005,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": -0.152,
+						"inSlope": 0,
+						"outSlope": 0.77477556,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.6,
+						"value": -0.859,
+						"inSlope": -0.39779058,
+						"outSlope": -0.39643893,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2.667,
+						"value": -0.974,
+						"inSlope": 0,
+						"outSlope": 0.049512334,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": -0.152,
+						"inSlope": 1.0240071,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1,
+						"value": 18,
+						"inSlope": 8.031009,
+						"outSlope": 8.031009,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": 20.325,
+						"inSlope": 0,
+						"outSlope": -1.6725043,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.333,
+						"value": 23.312,
+						"inSlope": 11.340597,
+						"outSlope": 11.334346,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": 25,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.333,
+						"value": -1.89,
+						"inSlope": -0.80120105,
+						"outSlope": -0.8006009,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": -2,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": -0.526,
+						"inSlope": 0,
+						"outSlope": 2.810814,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.833,
+						"value": -2.776,
+						"inSlope": -1.6380018,
+						"outSlope": -1.6416808,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2.5,
+						"value": -3.019,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": -0.526,
+						"inSlope": 2.746003,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": -1.574,
+						"inSlope": 0,
+						"outSlope": 3.3058505,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.667,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": -3.652,
+						"inSlope": -2.2685695,
+						"outSlope": -2.2623723,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2.667,
+						"value": -4,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": -1.574,
+						"inSlope": 2.7884502,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": 26,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 6.097,
+						"inSlope": 0,
+						"outSlope": 25.09486,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.833,
+						"value": 25.742,
+						"inSlope": 16.195694,
+						"outSlope": 15.31656,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.667,
+						"value": 30,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.5,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 6.097,
+						"inSlope": 31.938034,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": -0.389,
+						"inSlope": 0,
+						"outSlope": -0.9265378,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.667,
+						"value": -1,
+						"inSlope": -0.3958025,
+						"outSlope": -0.39600033,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.667,
+						"value": -1.13,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": -0.389,
+						"inSlope": -0.8500758,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": -0.251,
+						"inSlope": 0,
+						"outSlope": -1.1334347,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.667,
+						"value": -1,
+						"inSlope": -0.38230914,
+						"outSlope": -0.3810003,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.667,
+						"value": -1.122,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.667,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": -0.251,
+						"inSlope": -1.1801815,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 3.457,
+						"inSlope": 0,
+						"outSlope": 8.72001,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.6,
+						"value": 7.848,
+						"inSlope": 4.2050047,
+						"outSlope": 3.8033383,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.5,
+						"value": 9,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.5,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 3.457,
+						"inSlope": 9.52801,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": -0.538,
+						"inSlope": 0,
+						"outSlope": -1.9205416,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.667,
+						"value": -1.798,
+						"inSlope": -0.79610246,
+						"outSlope": -0.8139262,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.5,
+						"value": -2,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.5,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": -0.538,
+						"inSlope": -1.6380017,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 6.197,
+						"inSlope": 0,
+						"outSlope": 12.442991,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.833,
+						"value": 15.19,
+						"inSlope": 8.319334,
+						"outSlope": 7.1366982,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.667,
+						"value": 17,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 6.197,
+						"inSlope": 14.30736,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 5.457,
+						"inSlope": 0,
+						"outSlope": 26.61322,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.667,
+						"value": 19,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.667,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2.667,
+						"value": 9.993,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.667,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 5.457,
+						"inSlope": 23.099125,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 5.702,
+						"inSlope": 0,
+						"outSlope": 10.972984,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.333,
+						"value": 8,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2.333,
+						"value": 4.069,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 5.702,
+						"inSlope": 10.205407,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1,
+						"value": 22,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3,
+						"value": 10,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 4.765,
+						"inSlope": 0,
+						"outSlope": -19.081099,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.333,
+						"value": 17,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.333,
+						"value": 13.059,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 4.765,
+						"inSlope": -14.019505,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0.723,
+						"inSlope": 0,
+						"outSlope": 5.2236557,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.167,
+						"value": 6.481,
+						"inSlope": 3.3830369,
+						"outSlope": 2.5318158,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": 7,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.833,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0.723,
+						"inSlope": 7.7065926,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.167,
+						"value": -5.361,
+						"inSlope": -2.9717257,
+						"outSlope": -2.9747922,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": -6,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1,
+						"value": 1.826,
+						"inSlope": 0.6360007,
+						"outSlope": 0.63600105,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": 2,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 9.761,
+						"inSlope": 0,
+						"outSlope": 11.324336,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 0.333,
+						"value": 13,
+						"inSlope": 0.11711305,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": 3.55,
+						"inSlope": 9.89956,
+						"outSlope": 9.918931,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2.333,
+						"value": 5,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3.333,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 9.761,
+						"inSlope": 17.599716,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 1,
+						"value": 11,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 2,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 3,
+						"value": 7,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 0,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			},
+			{
+				"m_Curve": [
+					{
+						"time": 0,
+						"value": 1,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					},
+					{
+						"time": 4,
+						"value": 1,
+						"inSlope": 0,
+						"outSlope": 0,
+						"tangentMode": 0,
+						"weightedMode": 0,
+						"inWeight": 0,
+						"outWeight": 0
+					}
+				],
+				"m_PreInfinity": 2,
+				"m_PostInfinity": 2,
+				"m_RotationOrder": 4
+			}
+		],
+		"ParameterFadeInTimes": [
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			0.5,
+			0.5
+		],
+		"ParameterFadeOutTimes": [
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"MotionLength": 4
+	}
+}

@@ -1,0 +1,3410 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "m0101.book",
+	"m_PrefabAsset": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": -5320795759588794896 },
+	"m_Structure": {
+		"importVersion": 0,
+		"importGridList": [
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Command",
+							"Arg1",
+							"Arg2",
+							"Arg3",
+							"Arg4",
+							"Arg5",
+							"Arg6",
+							"WaitType",
+							"Text",
+							"PageCtrl",
+							"CueSheet",
+							"Voice",
+							"WindowType"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 1,
+						"strings": [
+							"*m0101.chapter.assets",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 2,
+						"strings": [
+							"SendMessage",
+							"FadeIn",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 3,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 4,
+						"strings": [
+							"Ambience",
+							"歓声・大",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 5,
+						"strings": [
+							"Bg",
+							"競技場",
+							"",
+							"背景",
+							"",
+							"",
+							"3",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 6,
+						"strings": [
+							"ImageEffect",
+							"SpriteCamera",
+							"Blur",
+							"BulrIn",
+							"",
+							"",
+							"0",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 7,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"4",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 8,
+						"strings": [
+							"Bgm",
+							"タイトル",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 9,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 10,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 11,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003csize=80\u003e――勝ったら、全国。\u003c/size\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 12,
+						"strings": [
+							"Ambience",
+							"ドリブルB",
+							"TRUE",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 13,
+						"strings": [
+							"Tween",
+							"BG",
+							"PunchPosition",
+							"time=0.3 y=-18",
+							"",
+							"loop=0",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 14,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 15,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 16,
+						"strings": [
+							"ImageEffectOff",
+							"SpriteCamera",
+							"Blur",
+							"BulrOut",
+							"",
+							"",
+							"1.5",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 17,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"――全国！　",
+							"Next",
+							"ADV_001",
+							"ADV_001_38_03"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 18,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.2",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 19,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"全国！　",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 20,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.2",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 21,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"全国！　",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 22,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.2",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 23,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"全国……！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 24,
+						"strings": [
+							"Tween",
+							"BG",
+							"ScaleTo",
+							"x=1.5 y=1.5",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 25,
+						"strings": [
+							"",
+							"稲葉翔平",
+							"",
+							"F中",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 26,
+						"strings": [
+							"Tween",
+							"稲葉翔平",
+							"PunchPosition",
+							"time=0.3 y=-12",
+							"",
+							"loop=0",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 27,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"――キーパーと１対１！",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 28,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 29,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"シュート決める！　",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 30,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 31,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"シュート……！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 32,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 33,
+						"strings": [
+							"StopAmbience",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 34,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 35,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003csize=80\u003e全――！　\u003c/size\u003e",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 36,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.2",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 37,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003csize=80\u003e国――！\u003c/size\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 38,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 39,
+						"strings": [
+							"Tween",
+							"BG",
+							"PunchPosition",
+							"time=0.5 y=0",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 40,
+						"strings": [
+							"Tween",
+							"稲葉翔平",
+							"PunchPosition",
+							"time=0.3 y=0",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 41,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 42,
+						"strings": [
+							"Shake",
+							"BG",
+							"",
+							"time=0.5 x=45 y=0",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 43,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=yellow\u003e\u003cruby=いさぎ\u003e潔\u003c/ruby\u003e\u003c/color\u003e！　",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 44,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.2",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 45,
+						"strings": [
+							"Tween",
+							"稲葉翔平",
+							"MoveBy",
+							"x=-360",
+							"",
+							"",
+							"0.5",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 46,
+						"strings": [
+							"Tween",
+							"BG",
+							"MoveBy",
+							"x=-360",
+							"",
+							"",
+							"0.5",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 47,
+						"strings": [
+							"Sprite",
+							"R競技場",
+							"",
+							"背景・上R",
+							"-225",
+							"-3600",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 48,
+						"strings": [
+							"Tween",
+							"R競技場",
+							"ScaleBy",
+							"x=2 y=2 time=0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 49,
+						"strings": [
+							"",
+							"多田友也",
+							"mtn_idle_01 normal",
+							"CI右",
+							"",
+							"-1800",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 50,
+						"strings": [
+							"Tween",
+							"R競技場",
+							"MoveTo",
+							"time=0.5 y=0",
+							"",
+							"",
+							"",
+							"Add",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 51,
+						"strings": [
+							"Tween",
+							"多田友也",
+							"MoveTo",
+							"time=0.5 y=-540",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 52,
+						"strings": [
+							"",
+							"多田友也",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 53,
+						"strings": [
+							"Tween",
+							"多田友也",
+							"PunchPosition",
+							"y=100",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 54,
+						"strings": [
+							"",
+							"多田友也",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"こっち、どフリー！！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 55,
+						"strings": [
+							"",
+							"多田友也",
+							"mtn_idle_01 surprise",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 56,
+						"strings": [
+							"Tween",
+							"多田友也",
+							"MoveBy",
+							"time=0.25 y=-50",
+							"easeOutQuad",
+							"pingPong=2",
+							"",
+							"NoWait",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 57,
+						"strings": [
+							"",
+							"多田友也",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"確実に１点返すべ！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 58,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 59,
+						"strings": [
+							"",
+							"一難高・潔",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"っ！　\u003ccolor=yellow\u003e多田\u003c/color\u003eちゃん……",
+							"",
+							"ADV_001",
+							"ADV_001_30_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 60,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 61,
+						"strings": [
+							"Tween",
+							"BG",
+							"MoveBy",
+							"x=360",
+							"",
+							"",
+							"1",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 62,
+						"strings": [
+							"Tween",
+							"BG",
+							"ScaleTo",
+							"time=1 x=1 y=1",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 63,
+						"strings": [
+							"Tween",
+							"稲葉翔平",
+							"MoveBy",
+							"x=360",
+							"",
+							"",
+							"1",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 64,
+						"strings": [
+							"Tween",
+							"稲葉翔平",
+							"ScaleTo",
+							"time=1 x=0.7 y=0.7",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 65,
+						"strings": [
+							"SpriteOff",
+							"R競技場",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 66,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 67,
+						"strings": [
+							"ChangeSoundVolume",
+							"Bgm",
+							"0.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 68,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 69,
+						"strings": [
+							"ImageEffect",
+							"SpriteCamera",
+							"Blur",
+							"BulrIn",
+							"",
+							"",
+							"0.5",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 70,
+						"strings": [
+							"",
+							"一難高・潔",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（パス出しゃ、１点だな……）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 71,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 72,
+						"strings": [
+							"ImageEffectOff",
+							"SpriteCamera",
+							"All",
+							"BulrOut",
+							"",
+							"",
+							"0",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 73,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 74,
+						"strings": [
+							"ChangeSoundVolume",
+							"Bgm",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 75,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 76,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=27 y=27",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 77,
+						"strings": [
+							"",
+							"一難高・監督",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=yellow\u003e潔ィ\u003c/color\u003e！",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 78,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 79,
+						"strings": [
+							"",
+							"一難高・監督",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"〝\u003cruby=ワンフォーオール\u003eひとりはみんなのために\u003c/ruby\u003e、\u003cruby=オールフォーワン\u003eみんなはひとりのために\u003c/ruby\u003e〟だ！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 80,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 81,
+						"strings": [
+							"Sprite",
+							"R競技場",
+							"",
+							"背景・上R",
+							"-225",
+							"3600",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 82,
+						"strings": [
+							"Tween",
+							"R競技場",
+							"ScaleBy",
+							"x=2 y=2 time=0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 83,
+						"strings": [
+							"",
+							"多田友也",
+							"mtn_idle_01 normal",
+							"CI右",
+							"",
+							"1800",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 84,
+						"strings": [
+							"Tween",
+							"R競技場",
+							"MoveTo",
+							"time=0.5 y=0",
+							"",
+							"",
+							"",
+							"Add",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 85,
+						"strings": [
+							"Tween",
+							"多田友也",
+							"MoveTo",
+							"time=0.5 y=-540",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 86,
+						"strings": [
+							"SpriteOff",
+							"R競技場",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"Add",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 87,
+						"strings": [
+							"CharacterOff",
+							"多田友也",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 88,
+						"strings": [
+							"Sprite",
+							"L競技場C",
+							"",
+							"背景・上L",
+							"225",
+							"-3600",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 89,
+						"strings": [
+							"Tween",
+							"L競技場C",
+							"ScaleBy",
+							"x=2 y=2 time=0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 90,
+						"strings": [
+							"",
+							"稲葉翔平",
+							"",
+							"CI左",
+							"",
+							"-1800",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 91,
+						"strings": [
+							"Tween",
+							"L競技場C",
+							"MoveTo",
+							"time=0.5 y=0",
+							"",
+							"",
+							"",
+							"Add",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 92,
+						"strings": [
+							"Tween",
+							"稲葉翔平",
+							"MoveTo",
+							"time=0.5 y=-540",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 93,
+						"strings": [
+							"SpriteOff",
+							"L競技場C",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"Add",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 94,
+						"strings": [
+							"CharacterOff",
+							"稲葉翔平",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 95,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 96,
+						"strings": [
+							"Tween",
+							"BG",
+							"MoveBy",
+							"y=45 time=0.25",
+							"linear",
+							"pingPong=2",
+							"",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 97,
+						"strings": [
+							"",
+							"一難高・潔",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"……そうだ、サッカーは――",
+							"",
+							"ADV_001",
+							"ADV_001_29_01"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 98,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 99,
+						"strings": [
+							"StopAmbience",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 100,
+						"strings": [
+							"StopBgm",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 101,
+						"strings": [
+							"Tween",
+							"BG",
+							"MoveBy",
+							"x=-45 time=0.25",
+							"linear",
+							"",
+							"",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 102,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 103,
+						"strings": [
+							"Tween",
+							"BG",
+							"MoveTo",
+							"x=0 time=0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 104,
+						"strings": [
+							"Bg",
+							"EX_001",
+							"",
+							"",
+							"",
+							"",
+							"0"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 105,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"3",
+							"1080",
+							"600",
+							"",
+							"0"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 106,
+						"strings": [
+							"Se",
+							"キック・小",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 107,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"1",
+							"0",
+							"",
+							"",
+							"0.5",
+							"Add"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 108,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 109,
+						"strings": [
+							"",
+							"一難高・潔",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"１１人でやるスポーツだ……！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 110,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"3",
+							"-875",
+							"50",
+							"",
+							"4",
+							"NoWait"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 111,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 112,
+						"strings": [
+							"Se",
+							"ホイッスル・終了",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 113,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"3",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 114,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"3",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 115,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"1",
+							"0",
+							"",
+							"",
+							"0"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 116,
+						"strings": [
+							"",
+							"インタビュアー",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"――本日の試合は２－０で\u003cruby=まつかぜ\u003e松風\u003c/ruby\u003e\u003cruby=こくおう\u003e黒王\u003c/ruby\u003e高校の勝利となり、\n松風黒王高校の全国大会出場が決定しました。",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 117,
+						"strings": [
+							"Sprite",
+							"白回想",
+							"",
+							"演出",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 118,
+						"strings": [
+							"BgEvent",
+							"SC_日本サッカー界の至宝",
+							"FALSE",
+							"スチル",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 119,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 120,
+						"strings": [
+							"",
+							"インタビュアー",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=yellow\u003e\u003cruby=きら\u003e吉良\u003c/ruby\u003e\u003cruby=りょうすけ\u003e涼介\u003c/ruby\u003e\u003c/color\u003e選手は日本サッカー界の宝と言われています。",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 121,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 122,
+						"strings": [
+							"",
+							"インタビュアー",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003cruby=アンダーエイティーン\u003eＵ－１８\u003c/ruby\u003e代表への飛び級招集も決まったそうですが、\n意気込みは？",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 123,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 124,
+						"strings": [
+							"",
+							"吉良涼介",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"そうですね。\n今はこのチームで全国大会優勝を目指すだけです。",
+							"",
+							"ADV_012",
+							"ADV_012_33_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 125,
+						"strings": [
+							"",
+							"吉良涼介",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"ただひとつ言えるのは、\n今の僕があるのはこのチームのみんなが\nいるからってことだけっすね。",
+							"",
+							"OUT_01202",
+							"OUT_01202_01_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 126,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 127,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 128,
+						"strings": [
+							"BgEventOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 129,
+						"strings": [
+							"SpriteOff",
+							"白回想",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 130,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 131,
+						"strings": [
+							"",
+							"多田友也",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"ごべーんみんなぁ……！\n俺が……俺が決めてればぁ……！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 132,
+						"strings": [
+							"",
+							"一難高・潔",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"…………。",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 133,
+						"strings": [
+							"Bgm",
+							"試合敗北",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 134,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 135,
+						"strings": [
+							"",
+							"一難高・監督",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"よく戦った。三年はこれで引退だ。",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 136,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 137,
+						"strings": [
+							"",
+							"一難高・監督",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"チームとして一緒に戦った日々を誇りに思え！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 138,
+						"strings": [
+							"",
+							"一難高・監督",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"この負けがいつかお前らの人生で……\n無駄じゃなかったと思える時がきっと来る……！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 139,
+						"strings": [
+							"",
+							"一難高・監督",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"俺にとってこの\u003cruby=いちなん\u003e一難\u003c/ruby\u003e高校サッカー部は……",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 140,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 141,
+						"strings": [
+							"Bg",
+							"黒背景",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 142,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 143,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"PageWait",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 144,
+						"strings": [
+							"",
+							"一難高・監督",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"日本一のチームだぁっ！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 145,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 146,
+						"strings": [
+							"Bgm",
+							"悲壮",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 147,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 148,
+						"strings": [
+							"",
+							"一難高・潔",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（いや……）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 149,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 150,
+						"strings": [
+							"",
+							"一難高・潔",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（全国にも届かなかった、県予選で敗退したチームだ）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 151,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 152,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（俺は――\u003c/color\u003e\u003ccolor=yellow\u003e\u003cruby=いさぎ\u003e潔\u003c/ruby\u003e\u003cruby=よいち\u003e世一\u003c/ruby\u003e\u003c/color\u003e\u003ccolor=cyan\u003eは、\n　そのチームの無名の二年生フォワード。\n　それが現実――……）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 153,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 154,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（――すみません、\u003c/color\u003e\u003ccolor=yellow\u003eノア\u003c/color\u003e\u003ccolor=cyan\u003e様……）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 155,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（あなたのような\u003cruby=スーパースター\u003e英雄選手\u003c/ruby\u003eに、俺はなれそうにありません）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 156,
+						"strings": [
+							"Sprite",
+							"白回想",
+							"",
+							"演出",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 157,
+						"strings": [
+							"Bg",
+							"競技場",
+							"",
+							"背景",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 158,
+						"strings": [
+							"ImageEffect",
+							"SpriteCamera",
+							"Sepia",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 159,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 160,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（――あなたに憧れて、ずっとサッカーを続けてきました。\u003c/color\u003e",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 161,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 162,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e　でも、夢は夢で終わってしまいそうです）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 163,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（いつか日本代表のエースストライカーになって、\n　そしてワールドカップ優勝するっていう、俺のアホみたいな夢が）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 164,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 165,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 166,
+						"strings": [
+							"BgOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 167,
+						"strings": [
+							"SpriteOff",
+							"白回想",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 168,
+						"strings": [
+							"ImageEffectOff",
+							"SpriteCamera",
+							"Sepia",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 169,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 170,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（――もしあの場面で\n　パスじゃなくてシュートを撃ってたら……）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 171,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（俺の運命は変わってたのかな……？）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 172,
+						"strings": [
+							"Bg",
+							"黒背景",
+							"",
+							"背景",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 173,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 174,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 175,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 176,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（クソぉ……\u003c/color\u003e",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 177,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 178,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e勝ちたかったぁ……！！）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 179,
+						"strings": [
+							"BgEvent",
+							"SC_夢破れて",
+							"FALSE",
+							"スチル",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 180,
+						"strings": [
+							"WaitInput",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 181,
+						"strings": [
+							"StopBgm",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 182,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 183,
+						"strings": [
+							"SendMessage",
+							"FadeOut",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 184,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 185,
+						"strings": [
+							"EndScenario",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/m0101.xlsx:m0101",
+				"type": 1,
+				"textLength": 4425,
+				"headerRow": 0,
+				"entityIndexTbl": [
+					
+				],
+				"entityDataList": [
+					
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,7539 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "Boot.chapter",
+	"m_PrefabAsset": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": -5040942498898396250 },
+	"m_Structure": {
+		"chapterName": "",
+		"dataList": [
+			{ "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": -1647813989180262628 }
+		],
+		"settingList": [
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"CharacterName",
+							"NameText",
+							"Pattern",
+							"X",
+							"Y",
+							"Z",
+							"Pivot0",
+							"Scale",
+							"Conditional",
+							"FileName",
+							"SubFileName",
+							"FileType",
+							"Animation",
+							"RenderTexture",
+							"RenderRect",
+							"EyeBlink",
+							"LipSynch",
+							"Icon",
+							"IconSubFileName",
+							"IconRect"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 1,
+						"strings": [
+							"潔世一",
+							"潔 世一",
+							"スーツ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 2,
+						"strings": [
+							"潔世一B",
+							"潔 世一",
+							"ビブス",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0010201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 3,
+						"strings": [
+							"潔世一J",
+							"潔 世一",
+							"ジャージ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0010301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 4,
+						"strings": [
+							"潔世一P",
+							"潔 世一",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0010202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 5,
+						"strings": [
+							"蜂楽廻",
+							"蜂楽 廻",
+							"スーツ",
+							"",
+							"60",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0020101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 6,
+						"strings": [
+							"蜂楽廻B",
+							"蜂楽 廻",
+							"ビブス",
+							"",
+							"60",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0020201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 7,
+						"strings": [
+							"蜂楽廻J",
+							"蜂楽 廻",
+							"ジャージ",
+							"",
+							"60",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0020301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 8,
+						"strings": [
+							"蜂楽廻P",
+							"蜂楽 廻",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0020202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 9,
+						"strings": [
+							"國神錬介",
+							"國神 錬介",
+							"スーツ",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0030101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 10,
+						"strings": [
+							"國神錬介B",
+							"國神 錬介",
+							"ビブス",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0030201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 11,
+						"strings": [
+							"國神錬介BCI",
+							"國神 錬介",
+							"ビブス",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0030201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 12,
+						"strings": [
+							"國神錬介J",
+							"國神 錬介",
+							"ジャージ",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0030301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 13,
+						"strings": [
+							"國神錬介P",
+							"國神 錬介",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0030202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 14,
+						"strings": [
+							"千切豹馬",
+							"千切 豹馬",
+							"スーツ",
+							"-10",
+							"70",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0040101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 15,
+						"strings": [
+							"千切豹馬B",
+							"千切 豹馬",
+							"ビブス",
+							"-10",
+							"70",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0040201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 16,
+						"strings": [
+							"千切豹馬J",
+							"千切 豹馬",
+							"ジャージ",
+							"-10",
+							"70",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0040301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 17,
+						"strings": [
+							"千切豹馬P",
+							"千切 豹馬",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0040202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 18,
+						"strings": [
+							"久遠渉",
+							"久遠 渉",
+							"スーツ",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0050101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 19,
+						"strings": [
+							"久遠渉B",
+							"久遠 渉",
+							"ビブス",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0050201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 20,
+						"strings": [
+							"久遠渉J",
+							"久遠 渉",
+							"ジャージ",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0050301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 21,
+						"strings": [
+							"久遠渉P",
+							"久遠 渉",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0050202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 22,
+						"strings": [
+							"雷市陣吾",
+							"雷市 陣吾",
+							"スーツ",
+							"",
+							"70",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0060101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 23,
+						"strings": [
+							"雷市陣吾B",
+							"雷市 陣吾",
+							"ビブス",
+							"",
+							"70",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0060201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 24,
+						"strings": [
+							"雷市陣吾J",
+							"雷市 陣吾",
+							"ジャージ",
+							"",
+							"70",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0060301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 25,
+						"strings": [
+							"今村遊大",
+							"今村 遊大",
+							"スーツ",
+							"-30",
+							"75",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0070101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 26,
+						"strings": [
+							"今村遊大B",
+							"今村 遊大",
+							"ビブス",
+							"-30",
+							"75",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0070201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 27,
+						"strings": [
+							"今村遊大J",
+							"今村 遊大",
+							"ジャージ",
+							"-30",
+							"75",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0070301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 28,
+						"strings": [
+							"我牙丸吟",
+							"我牙丸 吟",
+							"スーツ",
+							"-20",
+							"90",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0080101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 29,
+						"strings": [
+							"我牙丸吟B",
+							"我牙丸 吟",
+							"ビブス",
+							"-20",
+							"90",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0080201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 30,
+						"strings": [
+							"我牙丸吟J",
+							"我牙丸 吟",
+							"ジャージ",
+							"-20",
+							"90",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0080301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 31,
+						"strings": [
+							"我牙丸吟P",
+							"我牙丸 吟",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0080202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 32,
+						"strings": [
+							"成早朝日",
+							"成早 朝日",
+							"スーツ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0090101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 33,
+						"strings": [
+							"成早朝日B",
+							"成早 朝日",
+							"ビブス",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0090201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 34,
+						"strings": [
+							"成早朝日J",
+							"成早 朝日",
+							"ジャージ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0090301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 35,
+						"strings": [
+							"伊右衛門送人",
+							"伊右衛門 送人",
+							"スーツ",
+							"25",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0100101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 36,
+						"strings": [
+							"伊右衛門送人B",
+							"伊右衛門 送人",
+							"ビブス",
+							"25",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0100201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 37,
+						"strings": [
+							"伊右衛門送人J",
+							"伊右衛門 送人",
+							"ジャージ",
+							"25",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0100301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 38,
+						"strings": [
+							"伊右衛門送人P",
+							"伊右衛門 送人",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0100202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 39,
+						"strings": [
+							"五十嵐栗夢",
+							"五十嵐 栗夢",
+							"スーツ",
+							"-25",
+							"55",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0110101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 40,
+						"strings": [
+							"五十嵐栗夢B",
+							"五十嵐 栗夢",
+							"ビブス",
+							"-25",
+							"55",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0110201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 41,
+						"strings": [
+							"五十嵐栗夢J",
+							"五十嵐 栗夢",
+							"ジャージ",
+							"-25",
+							"55",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0110301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 42,
+						"strings": [
+							"吉良涼介",
+							"吉良 涼介",
+							"スーツ",
+							"",
+							"65",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0120101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 43,
+						"strings": [
+							"吉良涼介S",
+							"吉良 涼介",
+							"制服",
+							"",
+							"65",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0125301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 44,
+						"strings": [
+							"馬狼照英",
+							"馬狼 照英",
+							"スーツ",
+							"",
+							"95",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0130101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 45,
+						"strings": [
+							"馬狼照英CI",
+							"馬狼 照英",
+							"スーツ",
+							"",
+							"95",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0130101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 46,
+						"strings": [
+							"馬狼照英B",
+							"馬狼 照英",
+							"ビブス",
+							"",
+							"95",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0130201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 47,
+						"strings": [
+							"二子一揮",
+							"二子 一揮",
+							"スーツ",
+							"",
+							"55",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0140101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 48,
+						"strings": [
+							"二子一揮B",
+							"二子 一揮",
+							"ビブス",
+							"",
+							"55",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0140201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 49,
+						"strings": [
+							"二子一揮P",
+							"二子 一揮",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0140202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 50,
+						"strings": [
+							"大川響鬼",
+							"大川 響鬼",
+							"スーツ",
+							"",
+							"55",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0150101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 51,
+						"strings": [
+							"大川響鬼B",
+							"大川 響鬼",
+							"ビブス",
+							"",
+							"55",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0150201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 52,
+						"strings": [
+							"大川響鬼P",
+							"大川 響鬼",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0150202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 53,
+						"strings": [
+							"鰐間淳壱",
+							"鰐間 淳壱",
+							"スーツ",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0160101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 54,
+						"strings": [
+							"鰐間淳壱B",
+							"鰐間 淳壱",
+							"ビブス",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0160201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 55,
+						"strings": [
+							"鰐間計助",
+							"鰐間 計助",
+							"スーツ",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0170101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 56,
+						"strings": [
+							"鰐間計助B",
+							"鰐間 計助",
+							"ビブス",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0170201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 57,
+						"strings": [
+							"凪誠士郎",
+							"凪 誠士郎",
+							"スーツ",
+							"",
+							"85",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0180101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 58,
+						"strings": [
+							"凪誠士郎B",
+							"凪 誠士郎",
+							"ビブス",
+							"",
+							"85",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0180201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 59,
+						"strings": [
+							"凪誠士郎J",
+							"凪 誠士郎",
+							"ジャージ",
+							"",
+							"85",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0180301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 60,
+						"strings": [
+							"凪誠士郎P",
+							"凪 誠士郎",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0180202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 61,
+						"strings": [
+							"御影玲王",
+							"御影 玲王",
+							"スーツ",
+							"",
+							"65",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0190101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 62,
+						"strings": [
+							"御影玲王B",
+							"御影 玲王",
+							"ビブス",
+							"",
+							"65",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0190201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 63,
+						"strings": [
+							"御影玲王J",
+							"御影 玲王",
+							"ジャージ",
+							"",
+							"65",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0190301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 64,
+						"strings": [
+							"御影玲王P",
+							"御影 玲王",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0190202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 65,
+						"strings": [
+							"剣城斬鉄",
+							"剣城 斬鉄",
+							"スーツ",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0200101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 66,
+						"strings": [
+							"剣城斬鉄B",
+							"剣城 斬鉄",
+							"ビブス",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0200201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 67,
+						"strings": [
+							"剣城斬鉄J",
+							"剣城 斬鉄",
+							"ジャージ",
+							"",
+							"80",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0200301.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 68,
+						"strings": [
+							"糸師凛",
+							"糸師 凛",
+							"スーツ",
+							"",
+							"85",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0210101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 69,
+						"strings": [
+							"蟻生十兵衛",
+							"蟻生 十兵衛",
+							"スーツ",
+							"",
+							"120",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0220101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 70,
+						"strings": [
+							"時光青志",
+							"時光 青志",
+							"スーツ",
+							"",
+							"110",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0230101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 71,
+						"strings": [
+							"糸師冴",
+							"糸師 冴",
+							"私服",
+							"",
+							"90",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0240101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 72,
+						"strings": [
+							"士道龍聖",
+							"士道 龍聖",
+							"スーツ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0250101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 73,
+						"strings": [
+							"レオナルド・ルナ",
+							"レオナルド・ルナ",
+							"スーツ",
+							"",
+							"100",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0260101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 74,
+						"strings": [
+							"ジュリアン・ロキ",
+							"ジュリアン・ロキ",
+							"スーツ",
+							"",
+							"100",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0270101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 75,
+						"strings": [
+							"ダダ・シウバ",
+							"ダダ・シウバ",
+							"スーツ",
+							"",
+							"100",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0280101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 76,
+						"strings": [
+							"アダム・ブレイク",
+							"アダム・ブレイク",
+							"スーツ",
+							"",
+							"110",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0290101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 77,
+						"strings": [
+							"パブロ・カバソス",
+							"パブロ・カバソス",
+							"スーツ",
+							"",
+							"100",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0300101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 78,
+						"strings": [
+							"絵心甚八",
+							"絵心 甚八",
+							"通常",
+							"-70",
+							"70",
+							"",
+							"",
+							"9",
+							"",
+							"cha_5010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 79,
+						"strings": [
+							"絵心甚八P",
+							"絵心 甚八",
+							"ポーズ",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_5010102.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 80,
+						"strings": [
+							"帝襟アンリ",
+							"帝襟 アンリ",
+							"通常",
+							"-70",
+							"40",
+							"",
+							"",
+							"9",
+							"",
+							"cha_5020101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 81,
+						"strings": [
+							"ブルーロックマン",
+							"ブルーロックマン",
+							"通常",
+							"",
+							"90",
+							"",
+							"",
+							"9",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 82,
+						"strings": [
+							
+						],
+						"isEmpty": 1,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 83,
+						"strings": [
+							"土戸藻優座",
+							"チームＸ・土戸藻",
+							"1番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 84,
+						"strings": [
+							"英油使輝",
+							"チームＸ・英油",
+							"2番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 85,
+						"strings": [
+							"番区柔",
+							"チームＸ・番区",
+							"3番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 86,
+						"strings": [
+							"森永大弥",
+							"チームＸ・森永",
+							"4番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0510202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 87,
+						"strings": [
+							"江崎千尋",
+							"チームＸ・江崎",
+							"5番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 88,
+						"strings": [
+							"明治心",
+							"チームＸ・明治",
+							"6番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0530202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 89,
+						"strings": [
+							"大塚昴生",
+							"チームＸ・大塚",
+							"7番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0540202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 90,
+						"strings": [
+							"高良流斗",
+							"チームＸ・高良",
+							"8番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 91,
+						"strings": [
+							"大堂無頼",
+							"チームＸ・大堂",
+							"9番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0560202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 92,
+						"strings": [
+							"山賀理安",
+							"チームＸ・山賀",
+							"11番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0570202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 93,
+						"strings": [
+							"伊東樹羅樹",
+							"チームＹ・伊東",
+							"1番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0580202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 94,
+						"strings": [
+							"鈴木芦芽",
+							"チームＹ・鈴木",
+							"2番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 95,
+						"strings": [
+							"円飛雄",
+							"チームＹ・円",
+							"3番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0600202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 96,
+						"strings": [
+							"湖南新一",
+							"チームＹ・湖南",
+							"4番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0610202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 97,
+						"strings": [
+							"佐藤庵",
+							"チームＹ・佐藤",
+							"5番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0620202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 98,
+						"strings": [
+							"神楽奏士",
+							"チームＹ・神楽",
+							"6番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0630202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 99,
+						"strings": [
+							"六角風真",
+							"チームＹ・六角",
+							"8番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0640202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 100,
+						"strings": [
+							"竹山稀人",
+							"チームＹ・竹山",
+							"10番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 101,
+						"strings": [
+							"小柴日向",
+							"チームＹ・小柴",
+							"11番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0660202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 102,
+						"strings": [
+							"不破雷人",
+							"チームＷ・不破",
+							"1番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 103,
+						"strings": [
+							"獅子谷圭",
+							"チームＷ・獅子谷",
+							"2番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_9010101.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 104,
+						"strings": [
+							"米良皇輝",
+							"チームＷ・米良",
+							"3番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0410202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 105,
+						"strings": [
+							"土岐田櫂",
+							"チームＷ・土岐田",
+							"4番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0420202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 106,
+						"strings": [
+							"越中悠仁",
+							"チームＷ・越中",
+							"5番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0430202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 107,
+						"strings": [
+							"伊勢崎卓麿",
+							"チームＷ・伊勢崎",
+							"6番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0440202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 108,
+						"strings": [
+							"次元昇",
+							"チームＷ・次元",
+							"7番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0450202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 109,
+						"strings": [
+							"宗方広夢",
+							"チームＷ・宗方",
+							"8番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0460202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 110,
+						"strings": [
+							"雨空夕晴",
+							"チームＷ・雨空",
+							"11番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0470202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 111,
+						"strings": [
+							"土方喜三郎",
+							"チームＶ・土方",
+							"1番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0310202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 112,
+						"strings": [
+							"練馬烈",
+							"チームＶ・練馬",
+							"2番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0320202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 113,
+						"strings": [
+							"根本蒼太",
+							"チームＶ・根本",
+							"3番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0330202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 114,
+						"strings": [
+							"保灰力也",
+							"チームＶ・保灰",
+							"4番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0340202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 115,
+						"strings": [
+							"緑川平和",
+							"チームＶ・緑川",
+							"5番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0350202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 116,
+						"strings": [
+							"温芽真澄",
+							"チームＶ・温芽",
+							"6番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0360202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 117,
+						"strings": [
+							"海老名修平",
+							"チームＶ・海老名",
+							"7番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0370202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 118,
+						"strings": [
+							"鳥飼漢二",
+							"チームＶ・鳥飼",
+							"8番",
+							"",
+							"13",
+							"",
+							"",
+							"9.2",
+							"",
+							"cha_0380202.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 119,
+						"strings": [
+							"多田友也",
+							"一難高・多田",
+							"通常",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0670201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 120,
+						"strings": [
+							"稲葉翔平",
+							"松風黒王高・稲葉",
+							"通常",
+							"",
+							"50",
+							"",
+							"",
+							"9",
+							"",
+							"cha_0680201.prefab",
+							"",
+							"Custom"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:Character",
+				"type": 1,
+				"textLength": 5064,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"LayerName",
+							"Type",
+							"X",
+							"Y",
+							"Order",
+							"LayerMask",
+							"ScaleX",
+							"ScaleY",
+							"FlipX",
+							"FlipY",
+							"Width",
+							"Height",
+							"BorderLeft",
+							"BorderRight",
+							"BorderTop",
+							"BorderBottom",
+							"Align",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 1,
+						"strings": [
+							"中",
+							"Character",
+							"0",
+							"-540",
+							"500",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 2,
+						"strings": [
+							"左",
+							"Character",
+							"-450",
+							"-540",
+							"350",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 3,
+						"strings": [
+							"右",
+							"Character",
+							"450",
+							"-540",
+							"350",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 4,
+						"strings": [
+							"右奥",
+							"Character",
+							"900",
+							"-540",
+							"500",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 5,
+						"strings": [
+							"左奥",
+							"Character",
+							"-900",
+							"-540",
+							"500",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 6,
+						"strings": [
+							"F中",
+							"Character",
+							"0",
+							"-225",
+							"200",
+							"",
+							"1",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 7,
+						"strings": [
+							"F左",
+							"Character",
+							"-450",
+							"-225",
+							"50",
+							"",
+							"1",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 8,
+						"strings": [
+							"F右",
+							"Character",
+							"450",
+							"-225",
+							"50",
+							"",
+							"1",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 9,
+						"strings": [
+							"F右奥",
+							"Character",
+							"900",
+							"-225",
+							"200",
+							"",
+							"1",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 10,
+						"strings": [
+							"F左奥",
+							"Character",
+							"-900",
+							"-225",
+							"200",
+							"",
+							"1",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 11,
+						"strings": [
+							"N中",
+							"Character",
+							"0",
+							"-810",
+							"800",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 12,
+						"strings": [
+							"N左",
+							"Character",
+							"-450",
+							"-810",
+							"650",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 13,
+						"strings": [
+							"N右",
+							"Character",
+							"450",
+							"-810",
+							"650",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 14,
+						"strings": [
+							"N右奥",
+							"Character",
+							"900",
+							"-810",
+							"800",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 15,
+						"strings": [
+							"N左奥",
+							"Character",
+							"-900",
+							"-810",
+							"800",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 16,
+						"strings": [
+							"VN中",
+							"Character",
+							"0",
+							"-1440",
+							"1100",
+							"",
+							"3",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 17,
+						"strings": [
+							"VN左",
+							"Character",
+							"-720",
+							"-1440",
+							"950",
+							"",
+							"3",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 18,
+						"strings": [
+							"VN右",
+							"Character",
+							"720",
+							"-1440",
+							"950",
+							"",
+							"3",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 19,
+						"strings": [
+							"モニター",
+							"Character",
+							"0",
+							"-1500",
+							"3",
+							"",
+							"3",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 20,
+						"strings": [
+							"中R",
+							"Character",
+							"0",
+							"-540",
+							"3",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 21,
+						"strings": [
+							"左R",
+							"Character",
+							"-450",
+							"-540",
+							"3",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 22,
+						"strings": [
+							"右R",
+							"Character",
+							"450",
+							"-540",
+							"3",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 23,
+						"strings": [
+							"右奥R",
+							"Character",
+							"900",
+							"-540",
+							"3",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 24,
+						"strings": [
+							"左奥R",
+							"Character",
+							"-900",
+							"-540",
+							"3",
+							"",
+							"1.5",
+							"1.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 25,
+						"strings": [
+							"N中R",
+							"Character",
+							"0",
+							"-810",
+							"3",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 26,
+						"strings": [
+							"N左R",
+							"Character",
+							"-450",
+							"-810",
+							"3",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 27,
+						"strings": [
+							"N右R",
+							"Character",
+							"450",
+							"-810",
+							"3",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 28,
+						"strings": [
+							"N右奥R",
+							"Character",
+							"900",
+							"-810",
+							"3",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 29,
+						"strings": [
+							"N左奥R",
+							"Character",
+							"-900",
+							"-810",
+							"3",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 30,
+						"strings": [
+							"VN中R",
+							"Character",
+							"0",
+							"-1440",
+							"3",
+							"",
+							"3",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 31,
+						"strings": [
+							"VN左R",
+							"Character",
+							"-720",
+							"-1440",
+							"3",
+							"",
+							"3",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 32,
+						"strings": [
+							"VN右R",
+							"Character",
+							"720",
+							"-1440",
+							"3",
+							"",
+							"3",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 33,
+						"strings": [
+							"CI左",
+							"Character",
+							"-800",
+							"-600",
+							"1340",
+							"",
+							"1.7",
+							"1.7",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 34,
+						"strings": [
+							"CI左B",
+							"Character",
+							"-800",
+							"-600",
+							"1490",
+							"",
+							"1.7",
+							"1.7",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 35,
+						"strings": [
+							"CI右",
+							"Character",
+							"850",
+							"-600",
+							"1340",
+							"",
+							"1.7",
+							"1.7",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 36,
+						"strings": [
+							"CI右B",
+							"Character",
+							"850",
+							"-600",
+							"1490",
+							"",
+							"1.7",
+							"1.7",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 37,
+						"strings": [
+							"CI左S",
+							"Character",
+							"-800",
+							"-540",
+							"1340",
+							"",
+							"1.3",
+							"1.3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 38,
+						"strings": [
+							"CI左SB",
+							"Character",
+							"-800",
+							"-540",
+							"1490",
+							"",
+							"1.3",
+							"1.3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 39,
+						"strings": [
+							"CI右S",
+							"Character",
+							"850",
+							"-540",
+							"1340",
+							"",
+							"1.3",
+							"1.3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 40,
+						"strings": [
+							"CI右SB",
+							"Character",
+							"850",
+							"-540",
+							"1490",
+							"",
+							"1.3",
+							"1.3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 41,
+						"strings": [
+							"CI左N",
+							"Character",
+							"-800",
+							"-1440",
+							"1490",
+							"",
+							"3",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 42,
+						"strings": [
+							"CI右N",
+							"Character",
+							"850",
+							"-1440",
+							"1490",
+							"",
+							"3",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 43,
+						"strings": [
+							"背景",
+							"Bg",
+							"0",
+							"0",
+							"-10",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 44,
+						"strings": [
+							"背景B",
+							"Bg",
+							"0",
+							"0",
+							"-9",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 45,
+						"strings": [
+							"背景・大",
+							"Bg",
+							"0",
+							"0",
+							"-9",
+							"",
+							"2",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 46,
+						"strings": [
+							"スチル",
+							"Bg",
+							"0",
+							"0",
+							"1338",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 47,
+						"strings": [
+							"背景・上L",
+							"Bg",
+							"0",
+							"0",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 48,
+						"strings": [
+							"背景・上R",
+							"Bg",
+							"0",
+							"0",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 49,
+						"strings": [
+							"ボール",
+							"Sprite",
+							"0",
+							"0",
+							"1999",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 50,
+						"strings": [
+							"Uボール",
+							"Sprite",
+							"0",
+							"0",
+							"-5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 51,
+						"strings": [
+							"演出",
+							"Sprite",
+							"0",
+							"0",
+							"2000",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 52,
+						"strings": [
+							"ダミーL",
+							"Sprite",
+							"-720",
+							"-540",
+							"1340",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 53,
+						"strings": [
+							"ダミーR",
+							"Sprite",
+							"720",
+							"-540",
+							"1340",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 54,
+						"strings": [
+							"ダミーR2",
+							"Sprite",
+							"720",
+							"-540",
+							"1341",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:Layer",
+				"type": 1,
+				"textLength": 1348,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Label",
+							"Type",
+							"X",
+							"Y",
+							"Z",
+							"Pivot",
+							"Scale",
+							"Conditional",
+							"FileName",
+							"FileType",
+							"SubFileName",
+							"Animation",
+							"RenderTexture",
+							"RenderRect",
+							"Thumbnail",
+							"CgCategolly"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 1,
+						"strings": [
+							"黒背景",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"black.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 2,
+						"strings": [
+							"白背景",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"white.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 3,
+						"strings": [
+							"フィールド・入口",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg01_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 4,
+						"strings": [
+							"フィールド・中央",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg01_02.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 5,
+						"strings": [
+							"フィールド・右PA",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg01_03.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 6,
+						"strings": [
+							"フィールド・左PA",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"x=-0.81 y=0.81",
+							"",
+							"Bg01_03.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 7,
+						"strings": [
+							"フィールド・右ハーフ",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg01_04.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 8,
+						"strings": [
+							"フィールド・左ハーフ",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg01_05.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 9,
+						"strings": [
+							"フィールド・ゴール前",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg01_06.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 10,
+						"strings": [
+							"フィールド・ゴール前B",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg01_06b.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 11,
+						"strings": [
+							"フィールド・右コーナー",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"x=-0.8 y=0.8",
+							"",
+							"Bg01_07.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 12,
+						"strings": [
+							"フィールド・左コーナー",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg01_07.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 13,
+						"strings": [
+							"トレーニングルームA",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg02_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 14,
+						"strings": [
+							"トレーニングルームB",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg03_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 15,
+						"strings": [
+							"就寝部屋",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg04_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 16,
+						"strings": [
+							"就寝部屋・消灯",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg04_02.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 17,
+						"strings": [
+							"ロッカールーム",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg05_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 18,
+						"strings": [
+							"モニタリングルーム",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg06_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 19,
+						"strings": [
+							"モニタリングルーム・消灯",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg06_02.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 20,
+						"strings": [
+							"廊下",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg07_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 21,
+						"strings": [
+							"食堂",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg08_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 22,
+						"strings": [
+							"地下中央エリア",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg09_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 23,
+						"strings": [
+							"BLMSトレーニングルーム",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg10_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 24,
+						"strings": [
+							"BLMSトレーニングルーム1",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg10_02.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 25,
+						"strings": [
+							"BLMSトレーニングルーム2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg10_03.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 26,
+						"strings": [
+							"BLMSトレーニングルームM",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg10_04.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 27,
+						"strings": [
+							"二次選考集合エリア",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg11_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 28,
+						"strings": [
+							"絵心の部屋",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg13_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 29,
+						"strings": [
+							"モニター",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg14_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 30,
+						"strings": [
+							"ブルーロック・外観",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg15_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 31,
+						"strings": [
+							"JFUビル前",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg16_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 32,
+						"strings": [
+							"JFUホール",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg17_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 33,
+						"strings": [
+							"JFUホール・壇上",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg17_02.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 34,
+						"strings": [
+							"JFUホール・消灯",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg17_03.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 35,
+						"strings": [
+							"JFUホール・雑踏",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg17_04.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 36,
+						"strings": [
+							"JFU会議室",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg18_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 37,
+						"strings": [
+							"JFU会見場",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg19_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 38,
+						"strings": [
+							"競技場",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg20_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 39,
+						"strings": [
+							"グラウンド",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg21_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 40,
+						"strings": [
+							"グラウンド・夕方",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg21_02.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 41,
+						"strings": [
+							"学校・踊り場",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg22_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 42,
+						"strings": [
+							"スタジアム",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg23_01.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 43,
+						"strings": [
+							"スタジアム・外観",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg23_02.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 44,
+						"strings": [
+							"Rフィールド・入口",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_01R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 45,
+						"strings": [
+							"Lフィールド・中央",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_02L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 46,
+						"strings": [
+							"Rフィールド・中央",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_02R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 47,
+						"strings": [
+							"Lフィールド・中央2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_02L2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 48,
+						"strings": [
+							"Rフィールド・中央2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_02R2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 49,
+						"strings": [
+							"Lフィールド・右PA",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_03L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 50,
+						"strings": [
+							"Rフィールド・右PA",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_03R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 51,
+						"strings": [
+							"Lフィールド・右PA2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_03L2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 52,
+						"strings": [
+							"Rフィールド・右PA2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_03R2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 53,
+						"strings": [
+							"Lフィールド・左PA",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"x=-0.9 y=0.9",
+							"",
+							"Bg01_03R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 54,
+						"strings": [
+							"Rフィールド・左PA",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"x=-0.9 y=0.9",
+							"",
+							"Bg01_03L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 55,
+						"strings": [
+							"Lフィールド・左PA2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"x=-0.9 y=0.9",
+							"",
+							"Bg01_03R2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 56,
+						"strings": [
+							"Rフィールド・左PA2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"x=-0.9 y=0.9",
+							"",
+							"Bg01_03L2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 57,
+						"strings": [
+							"Lフィールド・右ハーフ",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_04L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 58,
+						"strings": [
+							"Rフィールド・右ハーフ",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_04R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 59,
+						"strings": [
+							"Lフィールド・右ハーフ2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_04L2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 60,
+						"strings": [
+							"Rフィールド・右ハーフ2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_04R2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 61,
+						"strings": [
+							"Lフィールド・左ハーフ",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_05L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 62,
+						"strings": [
+							"Rフィールド・左ハーフ",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_05R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 63,
+						"strings": [
+							"Lフィールド・ゴール前",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_06L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 64,
+						"strings": [
+							"Rフィールド・ゴール前",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_06R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 65,
+						"strings": [
+							"Lフィールド・ゴール前2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_06L2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 66,
+						"strings": [
+							"Rフィールド・ゴール前2",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_06R2.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 67,
+						"strings": [
+							"Rフィールド・右コーナー",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"x=-0.9 y=0.9",
+							"",
+							"Bg01_07L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 68,
+						"strings": [
+							"Lフィールド・左コーナー",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg01_07L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 69,
+						"strings": [
+							"LトレーニングルームA",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg02_01L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 70,
+						"strings": [
+							"RトレーニングルームA",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg02_01R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 71,
+						"strings": [
+							"L就寝部屋",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg04_01L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 72,
+						"strings": [
+							"Lロッカールーム",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg05_01L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 73,
+						"strings": [
+							"LBLMSトレーニングルーム",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg10_01L.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 74,
+						"strings": [
+							"RBLMSトレーニングルーム",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"Bg10_01R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 75,
+						"strings": [
+							"L競技場C",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg20_01LC.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 76,
+						"strings": [
+							"R競技場",
+							"Bg",
+							"",
+							"",
+							"",
+							"",
+							"0.9",
+							"",
+							"Bg20_01R.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 77,
+						"strings": [
+							"白回想",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"frame_white.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 78,
+						"strings": [
+							"黒帯",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"0.81",
+							"",
+							"frame_black.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 79,
+						"strings": [
+							"ボール",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"0.27",
+							"",
+							"soccer_ball.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 80,
+						"strings": [
+							"ボールA",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"0.36",
+							"",
+							"soccer_ball.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 81,
+						"strings": [
+							"ボールA2",
+							"Sprite",
+							"1.25",
+							"0.75",
+							"",
+							"",
+							"0.36",
+							"",
+							"soccer_ball.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 82,
+						"strings": [
+							"ボールB",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"0.36",
+							"",
+							"soccer_ball_b.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 83,
+						"strings": [
+							"ボールC",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"0.36",
+							"",
+							"soccer_ball_c.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 84,
+						"strings": [
+							"ダミー",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"1.8",
+							"",
+							"dummy.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 85,
+						"strings": [
+							"ダミーA",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"3.6",
+							"",
+							"dummy.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 86,
+						"strings": [
+							"ダミーB",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"3.6",
+							"",
+							"dummy.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 87,
+						"strings": [
+							"ダミーC",
+							"Sprite",
+							"",
+							"",
+							"",
+							"",
+							"3.24",
+							"",
+							"dummy.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 88,
+						"strings": [
+							"SC_〝かいぶつ〟を探すサッカー",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc002.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 89,
+						"strings": [
+							"SC_この熱が尽きるまで",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc004.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 90,
+						"strings": [
+							"SC_異次元トラップ",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc006.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 91,
+						"strings": [
+							"SC_TEAM X",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc007.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 92,
+						"strings": [
+							"SC_TEAM Y",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc008.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 93,
+						"strings": [
+							"SC_TEAM W",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc009.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 94,
+						"strings": [
+							"SC_TEAM V",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc010.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 95,
+						"strings": [
+							"SC_日本サッカー界の至宝",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc012.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 96,
+						"strings": [
+							"SC_夢破れて",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc013.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 97,
+						"strings": [
+							"SC_反骨の睨視",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc014.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 98,
+						"strings": [
+							"SC_夢見心地",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc015.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 99,
+						"strings": [
+							"SC_野心家のオニごっこ",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc017.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 100,
+						"strings": [
+							"SC_慮外のパス",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc019.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 101,
+						"strings": [
+							"SC_〝１〟を生む力",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc020.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 102,
+						"strings": [
+							"SC_サッカーは恋愛に同じ",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc024.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 103,
+						"strings": [
+							"SC_熊本の鬼武者",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc029.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 104,
+						"strings": [
+							"SC_〝ゴールの匂い〟",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc030.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 105,
+						"strings": [
+							"SC_以心伝心の弾道",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc033.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 106,
+						"strings": [
+							"SC_卑劣な脚本",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc036.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 107,
+						"strings": [
+							"SC_鬼気迫る挟み撃ち",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc037.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 108,
+						"strings": [
+							"SC_解き放たれる〝滾り〟",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc038.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 109,
+						"strings": [
+							"SC_もう一つの覚醒",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc041.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 110,
+						"strings": [
+							"SC_俺の宝物",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc042.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 111,
+						"strings": [
+							"SC_ゴールの方程式",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc044.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 112,
+						"strings": [
+							"SC_天才の一蹴",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc045.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 113,
+						"strings": [
+							"SC_天才の一蹴R",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"-0.82",
+							"",
+							"sc045.png",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 114,
+						"strings": [
+							"SC_万能型のゲームメイカー",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc046.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 115,
+						"strings": [
+							"SC_瞬足の伏兵",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc047.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 116,
+						"strings": [
+							"SC_動き出した天才",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc048.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 117,
+						"strings": [
+							"SC_マンマーク・ストーカー",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc049.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 118,
+						"strings": [
+							"SC_１１人目のプレイヤー",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc050.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 119,
+						"strings": [
+							"SC_守護神",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc051.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 120,
+						"strings": [
+							"SC_最後の欠片",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"sc052.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 121,
+						"strings": [
+							"EX_001",
+							"Event",
+							"",
+							"",
+							"",
+							"",
+							"0.82",
+							"",
+							"ex001.png"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:Texture",
+				"type": 1,
+				"textLength": 3409,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Label",
+							"Title",
+							"Type",
+							"CueSheet",
+							"FileName",
+							"IntroTime",
+							"Volume"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 1,
+						"strings": [
+							"タイトル",
+							"",
+							"Bgm",
+							"BLAZ_M1",
+							"BLAZ_M1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 2,
+						"strings": [
+							"ローディング",
+							"",
+							"Bgm",
+							"BLAZ_M2",
+							"BLAZ_M2"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 3,
+						"strings": [
+							"ホーム画面",
+							"",
+							"Bgm",
+							"BLAZ_M3",
+							"BLAZ_M3"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 4,
+						"strings": [
+							"ガチャ",
+							"",
+							"Bgm",
+							"BLAZ_M4",
+							"BLAZ_M4"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 5,
+						"strings": [
+							"ガチャ演出",
+							"",
+							"Bgm",
+							"BLAZ_M5",
+							"BLAZ_M5"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 6,
+						"strings": [
+							"ショップ",
+							"",
+							"Bgm",
+							"BLAZ_M6",
+							"BLAZ_M6"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 7,
+						"strings": [
+							"ストーリー選択",
+							"",
+							"Bgm",
+							"BLAZ_M7",
+							"BLAZ_M7"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 8,
+						"strings": [
+							"ルームマッチ",
+							"",
+							"Bgm",
+							"BLAZ_M8",
+							"BLAZ_M8"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 9,
+						"strings": [
+							"クラブ",
+							"",
+							"Bgm",
+							"BLAZ_M9",
+							"BLAZ_M9"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 10,
+						"strings": [
+							"強化編成",
+							"",
+							"Bgm",
+							"BLAZ_M10",
+							"BLAZ_M10"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 11,
+						"strings": [
+							"ランクマッチ",
+							"",
+							"Bgm",
+							"BLAZ_M11",
+							"BLAZ_M11"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 12,
+						"strings": [
+							"マッチング中",
+							"",
+							"Bgm",
+							"BLAZ_M12",
+							"BLAZ_M12"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 13,
+						"strings": [
+							"試合開始前",
+							"",
+							"Bgm",
+							"BLAZ_M13",
+							"BLAZ_M13"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 14,
+						"strings": [
+							"試合A",
+							"",
+							"Bgm",
+							"BLAZ_M14",
+							"BLAZ_M14"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 15,
+						"strings": [
+							"試合B",
+							"",
+							"Bgm",
+							"BLAZ_M15",
+							"BLAZ_M15"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 16,
+						"strings": [
+							"試合C",
+							"",
+							"Bgm",
+							"BLAZ_M16",
+							"BLAZ_M16"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 17,
+						"strings": [
+							"試合D",
+							"",
+							"Bgm",
+							"BLAZ_M17",
+							"BLAZ_M17"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 18,
+						"strings": [
+							"試合勝利",
+							"",
+							"Bgm",
+							"BLAZ_M18",
+							"BLAZ_M18"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 19,
+						"strings": [
+							"試合敗北",
+							"",
+							"Bgm",
+							"BLAZ_M19",
+							"BLAZ_M19"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 20,
+						"strings": [
+							"通常",
+							"",
+							"Bgm",
+							"BLAZ_M20",
+							"BLAZ_M20"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 21,
+						"strings": [
+							"日常",
+							"",
+							"Bgm",
+							"BLAZ_M21",
+							"BLAZ_M21"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 22,
+						"strings": [
+							"感動",
+							"",
+							"Bgm",
+							"BLAZ_M22",
+							"BLAZ_M22"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 23,
+						"strings": [
+							"悲壮",
+							"",
+							"Bgm",
+							"BLAZ_M23",
+							"BLAZ_M23"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 24,
+						"strings": [
+							"違和感",
+							"",
+							"Bgm",
+							"BLAZ_M24",
+							"BLAZ_M24"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 25,
+						"strings": [
+							"高揚",
+							"",
+							"Bgm",
+							"BLAZ_M25",
+							"BLAZ_M25"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 26,
+						"strings": [
+							"エンディング",
+							"",
+							"Bgm",
+							"BLAZ_M26",
+							"BLAZ_M26"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 27,
+						"strings": [
+							"イベントA",
+							"",
+							"Bgm",
+							"BLAZ_M27",
+							"BLAZ_M27"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 28,
+						"strings": [
+							"イベントB",
+							"",
+							"Bgm",
+							"BLAZ_M28",
+							"BLAZ_M28"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 29,
+						"strings": [
+							
+						],
+						"isEmpty": 1,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 30,
+						"strings": [
+							"キャンセル",
+							"",
+							"Se",
+							"system_se",
+							"se_10_error.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 31,
+						"strings": [
+							"電源",
+							"",
+							"Se",
+							"system_se",
+							"se_11_item_receive.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 32,
+						"strings": [
+							"めくり",
+							"",
+							"Se",
+							"system_se",
+							"se_17_banner_switch.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 33,
+						"strings": [
+							"電子音A",
+							"",
+							"Se",
+							"system_se",
+							"se_18_count_up_score.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 34,
+						"strings": [
+							"ホイッスル・開始",
+							"",
+							"Se",
+							"system_se",
+							"se_27_start_whistle.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 35,
+						"strings": [
+							"ホイッスル・HT",
+							"",
+							"Se",
+							"system_se",
+							"se_28_end_whistle_first_half.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 36,
+						"strings": [
+							"ホイッスル・終了",
+							"",
+							"Se",
+							"system_se",
+							"se_29__end_whistle_second_half.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 37,
+						"strings": [
+							"地を蹴る",
+							"",
+							"Se",
+							"system_se",
+							"se_31_sliding_light.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 38,
+						"strings": [
+							"スライディング",
+							"",
+							"Se",
+							"system_se",
+							"se_32__sliding_heavy.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 39,
+						"strings": [
+							"ぶつかる",
+							"",
+							"Se",
+							"system_se",
+							"se_33_tackle_light.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 40,
+						"strings": [
+							"タックル",
+							"",
+							"Se",
+							"system_se",
+							"se_34_tackle_heavy.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 41,
+						"strings": [
+							"さわる",
+							"",
+							"Se",
+							"system_se",
+							"se_35_tackle_dodge_light.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 42,
+						"strings": [
+							"バウンド・小",
+							"",
+							"Se",
+							"system_se",
+							"se_37_ball_bound_grass_small.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 43,
+						"strings": [
+							"バウンド・中",
+							"",
+							"Se",
+							"system_se",
+							"se_38_ball_bound_grass_medium.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 44,
+						"strings": [
+							"バウンド・大",
+							"",
+							"Se",
+							"system_se",
+							"se_39_ball_bound_grass_big.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 45,
+						"strings": [
+							"滑る",
+							"",
+							"Se",
+							"system_se",
+							"se_40_ball_roll_grass.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 46,
+						"strings": [
+							"キック・小",
+							"",
+							"Se",
+							"system_se",
+							"se_41_ball_kick_small.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 47,
+						"strings": [
+							"キック・中",
+							"",
+							"Se",
+							"system_se",
+							"se_42_ball_kick_medium.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 48,
+						"strings": [
+							"キック・大",
+							"",
+							"Se",
+							"system_se",
+							"se_43_ball_kick_big.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 49,
+						"strings": [
+							"センタリング",
+							"",
+							"Se",
+							"system_se",
+							"se_44_ball_kick_long_pass.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 50,
+						"strings": [
+							"ボール",
+							"",
+							"Se",
+							"system_se",
+							"se_52_ball_block.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 51,
+						"strings": [
+							"トラップA",
+							"",
+							"Se",
+							"system_se",
+							"se_53_trap_pass_cut_leg.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 52,
+						"strings": [
+							"トラップB",
+							"",
+							"Se",
+							"system_se",
+							"se_54_trap_pass_cut_chest.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 53,
+						"strings": [
+							"ダッシュ",
+							"",
+							"Se",
+							"system_se",
+							"se_57_footsteps_grass_dash.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 54,
+						"strings": [
+							"風切り",
+							"",
+							"Se",
+							"system_se",
+							"se_59_wind_noise.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 55,
+						"strings": [
+							"パンチ",
+							"",
+							"Se",
+							"system_se",
+							"se_62_punching.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 56,
+						"strings": [
+							"ゴールポスト",
+							"",
+							"Se",
+							"system_se",
+							"se_63_goal_post_hit.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 57,
+						"strings": [
+							"ゴールネット・小",
+							"",
+							"Se",
+							"system_se",
+							"se_64_goal_net_sway_weak.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 58,
+						"strings": [
+							"ゴールネット・大",
+							"",
+							"Se",
+							"system_se",
+							"se_65_goal_net_sway_strong.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 59,
+						"strings": [
+							"駆ける",
+							"",
+							"Se",
+							"system_se",
+							"se_66_fall_down.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 60,
+						"strings": [
+							"光る",
+							"",
+							"Se",
+							"system_se",
+							"se_67_skill_activation.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 61,
+						"strings": [
+							"ハイタッチ",
+							"",
+							"Se",
+							"system_se",
+							"se_76_high_touch.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 62,
+						"strings": [
+							
+						],
+						"isEmpty": 1,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 63,
+						"strings": [
+							"ドリブルA",
+							"",
+							"Ambience",
+							"system_se",
+							"se_46_dribble_slow_single.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 64,
+						"strings": [
+							"ドリブルB",
+							"",
+							"Ambience",
+							"system_se",
+							"se_47_dribble_normal_single.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 65,
+						"strings": [
+							"ドリブルC",
+							"",
+							"Ambience",
+							"system_se",
+							"se_48_dribble_fast_single.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 66,
+						"strings": [
+							"歩く",
+							"",
+							"Ambience",
+							"system_se",
+							"se_55_footsteps_grass_walk_single.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 67,
+						"strings": [
+							"走る",
+							"",
+							"Ambience",
+							"system_se",
+							"se_56_footsteps_grass_run_single.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 68,
+						"strings": [
+							"ドリブルAL",
+							"",
+							"Ambience",
+							"system_se",
+							"se_46_dribble_slow_loop.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 69,
+						"strings": [
+							"ドリブルBL",
+							"",
+							"Ambience",
+							"system_se",
+							"se_47_dribble_normal_loop.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 70,
+						"strings": [
+							"ドリブルCL",
+							"",
+							"Ambience",
+							"system_se",
+							"se_48_dribble_fast_loop.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 71,
+						"strings": [
+							"歩くL",
+							"",
+							"Ambience",
+							"system_se",
+							"se_55_footsteps_grass_walk_loop.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 72,
+						"strings": [
+							"走るL",
+							"",
+							"Ambience",
+							"system_se",
+							"se_56_footsteps_grass_run_loop.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 73,
+						"strings": [
+							"歓声・中",
+							"",
+							"Ambience",
+							"system_se",
+							"se_73_cheers_joy.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 74,
+						"strings": [
+							"歓声・大",
+							"",
+							"Ambience",
+							"system_se",
+							"se_74_cheers_goal.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 75,
+						"strings": [
+							"歓声・低",
+							"",
+							"Ambience",
+							"system_se",
+							"se_75_cheers_disheartened.wav"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:Sound",
+				"type": 1,
+				"textLength": 2645,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Label",
+							"FileName",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 1,
+						"strings": [
+							"IntensiveLine",
+							"IntensiveLine",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:Particle",
+				"type": 1,
+				"textLength": 39,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"*SampleAnimation"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 1,
+						"strings": [
+							"Time",
+							"0",
+							"0.5",
+							"1",
+							"1.5",
+							"2"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 2,
+						"strings": [
+							"X",
+							"0",
+							"",
+							"0",
+							"0",
+							"100"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 3,
+						"strings": [
+							"Y",
+							"-50",
+							"50",
+							"0",
+							"0",
+							"0"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 4,
+						"strings": [
+							"Angle",
+							"0",
+							"",
+							"0",
+							"0",
+							"360"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 5,
+						"strings": [
+							"ScaleX",
+							"0.2",
+							"1.2",
+							"1",
+							"1",
+							"1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 6,
+						"strings": [
+							"ScaleY",
+							"0.2",
+							"1.2",
+							"1",
+							"1",
+							"1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 7,
+						"strings": [
+							"Alpha",
+							"0",
+							"1",
+							"1",
+							"1",
+							"1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 8,
+						"strings": [
+							
+						],
+						"isEmpty": 1,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 9,
+						"strings": [
+							"*BulrIn"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 10,
+						"strings": [
+							"Time",
+							"0",
+							"0.1",
+							"0.2",
+							"0.3",
+							"0.4",
+							"0.5",
+							"0.6",
+							"0.7",
+							"0.8",
+							"0.9",
+							"1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 11,
+						"strings": [
+							"Utage.Blur.blurSize",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"3"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 12,
+						"strings": [
+							"Utage.Blur.blurIterations",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"2"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 13,
+						"strings": [
+							"Utage.Blur.downsample",
+							"0",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 14,
+						"strings": [
+							
+						],
+						"isEmpty": 1,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 15,
+						"strings": [
+							"*BulrOut"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 16,
+						"strings": [
+							"Time",
+							"0",
+							"0.1",
+							"0.2",
+							"0.3",
+							"0.4",
+							"0.5",
+							"0.6",
+							"0.7",
+							"0.8",
+							"0.9",
+							"1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 17,
+						"strings": [
+							"Utage.Blur.blurSize",
+							"3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 18,
+						"strings": [
+							"Utage.Blur.blurIterations",
+							"2",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 19,
+						"strings": [
+							"Utage.Blur.downsample",
+							"1",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:Animation",
+				"type": 1,
+				"textLength": 321,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Label",
+							"IntervalMin",
+							"IntervalMax",
+							"RandomDouble",
+							"Tag",
+							"Name0",
+							"Duration0",
+							"Name1",
+							"Duration1",
+							"Name2",
+							"Duration2",
+							"Name3",
+							"Duration3",
+							"Name4",
+							"Duration4"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:EyeBlink",
+				"type": 1,
+				"textLength": 112,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Label",
+							"Type",
+							"Interval",
+							"Tag",
+							"ScaleVoiceVolume",
+							"Name0",
+							"Duration0",
+							"Name1",
+							"Duration1",
+							"Name2",
+							"Duration2",
+							"Name3",
+							"Duration3",
+							"Name4",
+							"Duration4"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:LipSynch",
+				"type": 1,
+				"textLength": 106,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Label",
+							"Type",
+							"Value",
+							"FileType"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:Param",
+				"type": 1,
+				"textLength": 22,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Name"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 1,
+						"strings": [
+							"Type"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 2,
+						"strings": [
+							"FileType"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:ParamTbl{}",
+				"type": 1,
+				"textLength": 16,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"ScenarioLabel",
+							"Title",
+							"Thumbnail"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:SceneGallery",
+				"type": 1,
+				"textLength": 27,
+				"headerRow": 0
+			},
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Key"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/setup.xlsx:Localize",
+				"type": 1,
+				"textLength": 3,
+				"headerRow": 0
+			}
+		]
+	}
+}

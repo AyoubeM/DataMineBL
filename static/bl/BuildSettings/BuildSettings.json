@@ -1,0 +1,42 @@
+{
+	"m_AuthToken": "9ceb668967bf7141c313197cf4ae3587b732b3e6682448d377f51870555e22564e6cd610ac97594f",
+	"m_BuildTags": [
+		
+	],
+	"m_EnabledVRDevices": [
+		
+	],
+	"m_EnableDynamicBatching": true,
+	"m_GraphicsAPIs": [
+		2
+	],
+	"m_HasAdvancedVersion": true,
+	"m_HasClusterRendering": false,
+	"m_HasLocalLightShadows": true,
+	"m_HasPROVersion": true,
+	"m_HasPublishingRights": false,
+	"m_HasShadows": true,
+	"m_HasSoftShadows": true,
+	"m_HideFlags": 0,
+	"m_IsEducationalBuild": false,
+	"m_IsEmbedded": false,
+	"m_IsNoWatermarkBuild": true,
+	"m_IsPrototypingBuild": false,
+	"m_IsTrial": false,
+	"m_PreloadedPlugins": [
+		
+	],
+	"m_Scenes": [
+		"Assets/BlazBattle/Scenes/GameGuardOnScene.unity",
+		"Assets/BlazBattle/Scenes/StartUpScene.unity",
+		"Assets/BlazBattle/Scenes/OutGame/SplashScene.unity",
+		"Assets/BlazBattle/Scenes/OutGame/HomeScene.unity",
+		"Assets/BlazBattle/Scenes/OutGame/ResultScene.unity",
+		"Assets/BlazBattle/Scenes/OutGame/TitleScene.unity",
+		"Assets/BlazBattle/Scenes/OutGame/DownloadScene.unity",
+		"Assets/BlazBattle/Scenes/OutGame/GachaResult_SupportCard.unity",
+		"Assets/BlazBattle/Scenes/OutGame/GachaResult_Unit.unity"
+	],
+	"m_UsesOnMouseEvents": true,
+	"m_Version": "2022.3.52f1"
+}

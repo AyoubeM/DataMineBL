@@ -1,0 +1,6309 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "m0105.book",
+	"m_PrefabAsset": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-34d68d4e3926b91030e8d1bfa633ce51", "m_PathID": -5320795759588794896 },
+	"m_Structure": {
+		"importVersion": 0,
+		"importGridList": [
+			{
+				"rows": [
+					{
+						"rowIndex": 0,
+						"strings": [
+							"Command",
+							"Arg1",
+							"Arg2",
+							"Arg3",
+							"Arg4",
+							"Arg5",
+							"Arg6",
+							"WaitType",
+							"Text",
+							"PageCtrl",
+							"CueSheet",
+							"Voice",
+							"WindowType"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 1,
+						"strings": [
+							"*m0105.chapter.assets",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 2,
+						"strings": [
+							"SendMessage",
+							"FadeIn",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 3,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 4,
+						"strings": [
+							"Bg",
+							"トレーニングルームA",
+							"",
+							"背景",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 5,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 6,
+						"strings": [
+							"Se",
+							"ホイッスル・終了",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 7,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 8,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"4",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 9,
+						"strings": [
+							"Se",
+							"電子音A",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 10,
+						"strings": [
+							"ChangeMessageWindow",
+							"MessageWindowC",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 11,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003csize=80\u003e\u003ccolor=lime\u003eTIME UP\u003c/size\u003e\u003c/color\u003e",
+							"InputBr",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 12,
+						"strings": [
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003csize=80\u003e\u003ccolor=lime\u003eLOSE　吉良 涼介\u003c/size\u003e\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 13,
+						"strings": [
+							"ChangeMessageWindow",
+							"MessageWindow",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 14,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 15,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad",
+							"中",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 16,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"…………。",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 17,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=yellow\u003e潔\u003c/color\u003e、くん……？",
+							"",
+							"ADV_012",
+							"ADV_012_32_01"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 18,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"何……やってんの……？",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 19,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 20,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 21,
+						"strings": [
+							"Shake",
+							"吉良涼介",
+							"",
+							"time=0.5 x=30",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 22,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 surprise",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"え、どゆこと？",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 23,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 24,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　何コレ……？",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 25,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"……ごめん。",
+							"Next",
+							"ADV_001",
+							"ADV_001_06_01"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 26,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 27,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"その、だって……",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 28,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 29,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"急にボールが、来たから……",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 30,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"……は？",
+							"Next",
+							"ADV_012",
+							"ADV_012_04_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 31,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 32,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 anger",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　フザけん――……",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 33,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 34,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『――才能の原石共よ。ここでは結果が全てだ』",
+							"",
+							"ADV_501",
+							"ADV_501_02_01"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 35,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 36,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 37,
+						"strings": [
+							"Bg",
+							"モニター",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 38,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 anger",
+							"モニター",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 39,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 40,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 41,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 anger",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『敗れた者は出ていけ。",
+							"Br",
+							"ADV_501",
+							"ADV_501_41_03"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 42,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 43,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　\u003ccolor=yellow\u003e吉良涼介\u003c/color\u003e――失格！』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 44,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=27 time=0.5",
+							"",
+							"",
+							"",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 45,
+						"strings": [
+							"",
+							"吉良涼介",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"っ！！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 46,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 47,
+						"strings": [
+							"Bg",
+							"トレーニングルームA",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 48,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 49,
+						"strings": [
+							"Bgm",
+							"違和感",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 50,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad",
+							"中",
+							"",
+							"",
+							"",
+							"",
+							"…………フザけんなよ。",
+							"",
+							"ADV_012",
+							"ADV_012_04_06"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 51,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 anger",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"こんなやり方で……こんな遊びで……",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 52,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 53,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"なんで俺が……",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 54,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 55,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=90 time=0.5",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 56,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"俺の将来が潰されなきゃなんねぇんだよ！？",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 57,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 58,
+						"strings": [
+							"Bg",
+							"モニター",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 59,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 sad_mouth_closure",
+							"モニター",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 60,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=27 y=27 time=1",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 61,
+						"strings": [
+							"",
+							"吉良涼介",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"俺は日本サッカー界の宝だぞ！？",
+							"Br",
+							"ADV_012",
+							"ADV_012_41_03"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 62,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 63,
+						"strings": [
+							"",
+							"吉良涼介",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=yellow\u003eイガグリ\u003c/color\u003eとか\u003ccolor=yellow\u003e潔\u003c/color\u003eくんのが才能あるってのかよ！？",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 64,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 65,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=27 time=0.5",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 66,
+						"strings": [
+							"",
+							"吉良涼介",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　あ！？",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 67,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 68,
+						"strings": [
+							"Bg",
+							"トレーニングルームA",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 69,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 anger",
+							"中",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 70,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 71,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=27 y=27 time=0.5",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 72,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"こんな〝オニごっこ〟になんの意味がある！？",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 73,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 74,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"サッカーとなんの関係があんだよ！？",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 75,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 76,
+						"strings": [
+							"CharacterOff",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 77,
+						"strings": [
+							"Bg",
+							"モニター",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 78,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 anger",
+							"モニター",
+							"",
+							"",
+							"1",
+							"",
+							"『……〝\u003cruby=ブルーロック\u003e青い監獄\u003c/ruby\u003e〟に\n　サッカーと関係無いことなんか一つもねぇよ』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 79,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 normal",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『周りをよく見ろ、エリート凡人』",
+							"",
+							"ADV_501",
+							"ADV_501_21_04"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 80,
+						"strings": [
+							"Sprite",
+							"LトレーニングルームA",
+							"",
+							"背景・上L",
+							"225",
+							"-1800",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 81,
+						"strings": [
+							"Tween",
+							"LトレーニングルームA",
+							"ScaleBy",
+							"x=2 y=2 time=0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 82,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 anger",
+							"CI左",
+							"",
+							"-1800",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 83,
+						"strings": [
+							"Tween",
+							"絵心甚八",
+							"MoveTo",
+							"time=0.5 x=630",
+							"",
+							"",
+							"",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 84,
+						"strings": [
+							"Tween",
+							"LトレーニングルームA",
+							"MoveTo",
+							"time=0.5 y=0",
+							"",
+							"",
+							"",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 85,
+						"strings": [
+							"Tween",
+							"吉良涼介",
+							"MoveTo",
+							"time=0.5 y=-540",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 86,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"あ……？",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 87,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 88,
+						"strings": [
+							"SpriteOff",
+							"LトレーニングルームA",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 89,
+						"strings": [
+							"Bg",
+							"トレーニングルームA",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 90,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『その部屋の広さはペナルティ・エリアと同じサイズだ』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 91,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『ゴールの約75％はこの中から生まれる。",
+							"Br",
+							"ADV_501",
+							"ADV_501_27_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 92,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 93,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　ここで仕事ができない人間にストライカーの才能は無い』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 94,
+						"strings": [
+							"Sprite",
+							"LトレーニングルームA",
+							"",
+							"背景・上L",
+							"225",
+							"-1800",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 95,
+						"strings": [
+							"Tween",
+							"LトレーニングルームA",
+							"ScaleBy",
+							"x=2 y=2 time=0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 96,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad",
+							"CI左",
+							"",
+							"-1800",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 97,
+						"strings": [
+							"Tween",
+							"LトレーニングルームA",
+							"MoveTo",
+							"time=0.5 y=0",
+							"",
+							"",
+							"",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 98,
+						"strings": [
+							"Tween",
+							"吉良涼介",
+							"MoveTo",
+							"time=0.5 y=-540",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 99,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"だっ……",
+							"Next",
+							"ADV_012",
+							"ADV_012_04_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 100,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 101,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=27 time=0.5",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 102,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"だからどーした！？",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 103,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 104,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"〝オニごっこ〟はサッカーじゃねぇっつってんの！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 105,
+						"strings": [
+							"Bg",
+							"モニター",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 106,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 normal",
+							"モニター",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 107,
+						"strings": [
+							"Tween",
+							"絵心甚八",
+							"MoveTo",
+							"time=0 x=630",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 108,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『逃げる側に要求されるのは\n　対人感覚・駆け引き・ポジショニング……』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 109,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『追う側に要求されるのは\n　ドリブル精度や、動きの中で狙い打てるキックのクオリティ……』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 110,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『これは立派なサッカーのトレーニングだ、タコ』",
+							"",
+							"ADV_501",
+							"ADV_501_06_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 111,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 surprise",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"だ、だからって……",
+							"Br",
+							"ADV_012",
+							"ADV_012_36_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 112,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 113,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"こんなたかだか２分ちょっとで俺の何がわかんだよ！？",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 114,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 115,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=27 time=0.5",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 116,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 anger",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"サッカーは９０分だろがよ！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 117,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『一試合の中で一人のプレイヤーが\n　ボールを保持できる平均時間は約136秒』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 118,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 anger",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『お前は平等に与えられた\u003cruby=チャンス\u003e機会\u003c/ruby\u003eをフイにしたんだ』",
+							"",
+							"ADV_501",
+							"ADV_501_04_05"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 119,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 120,
+						"strings": [
+							"Shake",
+							"吉良涼介",
+							"",
+							"time=0.5 x=30",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 121,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"で、でも……",
+							"Next",
+							"ADV_012",
+							"ADV_012_36_01"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 122,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 123,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"ラスト10秒じゃどうしようも……",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 124,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 sad",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『――お前は試合でも同じことを言うのか？』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 125,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 126,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 127,
+						"strings": [
+							"SpriteOff",
+							"LトレーニングルームA",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 128,
+						"strings": [
+							"Bg",
+							"トレーニングルームA",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 129,
+						"strings": [
+							"Sprite",
+							"白回想",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 130,
+						"strings": [
+							"",
+							"五十嵐栗夢",
+							"mtn_idle_01 sad",
+							"中",
+							"",
+							"-180",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 131,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 132,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 133,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『……ボールを当てられた瞬間、時計はあと１秒残ってた。",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 134,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 135,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　動けない\u003ccolor=yellow\u003eイガグリ\u003c/color\u003eに当てれば生き残れたんだ。",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 136,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 137,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　それをお前は見逃した』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 138,
+						"strings": [
+							"Tween",
+							"五十嵐栗夢",
+							"ScaleBy",
+							"x=0.75 y=0.75",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 139,
+						"strings": [
+							"Tween",
+							"五十嵐栗夢",
+							"MoveAdd",
+							"x=225 y=180",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 140,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad_mouth_closure",
+							"N左",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 141,
+						"strings": [
+							"Sprite",
+							"ボールA",
+							"",
+							"ボール",
+							"-360",
+							"360",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 142,
+						"strings": [
+							"Tween",
+							"ボールA",
+							"ScaleBy",
+							"time=0 x=1.3 y=1.3",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 143,
+						"strings": [
+							"Se",
+							"トラップA",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 144,
+						"strings": [
+							"Tween",
+							"ボールA",
+							"RotateBy",
+							"time=30 z=1",
+							"linear",
+							"loop=0",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 145,
+						"strings": [
+							"Tween",
+							"ボールA",
+							"MoveAdd",
+							"x=225 y=225",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 146,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『言わば試合終了間際のラストワンプレー。",
+							"Br",
+							"ADV_501",
+							"ADV_501_27_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 147,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 148,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　味方のシュートがお前を直撃したその瞬間、\n　お前は諦めて敗北を受け入れた』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 149,
+						"strings": [
+							"FadeOut",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 150,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『だから気づけなかったんだ。",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 151,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 152,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　ほんの少し脚を伸ばせば届いたハズの勝利に』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 153,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 154,
+						"strings": [
+							"SpriteOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 155,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad_mouth_closure",
+							"N中",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 156,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 157,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 158,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 159,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad_mouth_closure",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"…………。",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 160,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 161,
+						"strings": [
+							"CharacterOff",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 162,
+						"strings": [
+							"Bg",
+							"モニター",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 163,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 normal",
+							"モニター",
+							"",
+							"",
+							"0.5",
+							"",
+							"『この〝オニごっこ〟における〝オニ〟は\n　ボールを持ち続けることで〝敗者〟にもなり得るが、\n　誰かに当てることで自らが〝勝者〟にもなることができる有権者だ』",
+							"",
+							"ADV_501",
+							"ADV_501_41_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 164,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『ストライカーとはその全責任を負い、\n　最後の１秒まで戦う人間のこと……ですよ』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 165,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 166,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 167,
+						"strings": [
+							"Sprite",
+							"白回想",
+							"",
+							"演出",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 168,
+						"strings": [
+							"Bg",
+							"トレーニングルームA",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 169,
+						"strings": [
+							"",
+							"五十嵐栗夢",
+							"mtn_idle_01 sad",
+							"中",
+							"",
+							"-90",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 170,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 171,
+						"strings": [
+							"ImageEffect",
+							"SpriteCamera",
+							"GrayScale",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 172,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 173,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 174,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『倒れた\u003ccolor=yellow\u003eイガグリ\u003c/color\u003eじゃなく、\n　自分よりランキングが上の奴を倒そうとした\u003ccolor=yellow\u003e潔世一\u003c/color\u003e』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 175,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 176,
+						"strings": [
+							"CharacterOff",
+							"五十嵐栗夢",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 177,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"1",
+							"0",
+							"0",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 178,
+						"strings": [
+							"ImageEffectOff",
+							"SpriteCamera",
+							"GrayScale",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 179,
+						"strings": [
+							"BgEvent",
+							"SC_野心家のオニごっこ",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 180,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 181,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『そこから球を奪い、\n　一番強い者を倒そうとした\u003ccolor=yellow\u003e蜂楽廻\u003c/color\u003e……』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 182,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『それこそが集団の常識に左右されない\n　己のためだけの勝利への執念であり、\n　俺が求めるストライカーのエゴイズムだ』",
+							"",
+							"ADV_501",
+							"ADV_501_29_04"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 183,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 184,
+						"strings": [
+							"SpriteOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 185,
+						"strings": [
+							"BgEventOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 186,
+						"strings": [
+							"Bg",
+							"トレーニングルームA",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 187,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad",
+							"N中",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 188,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 189,
+						"strings": [
+							"FadeIn",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 190,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『……そこから逃げたお前の負けだ。",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 191,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 192,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"0",
+							"360",
+							"",
+							"0.2",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 193,
+						"strings": [
+							"Particle",
+							"IntensiveLine",
+							"",
+							"演出",
+							"",
+							"180",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 194,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　\u003ccolor=yellow\u003e吉良涼介\u003c/color\u003e、\u003cruby=ロック・オフ\u003e帰れ\u003c/ruby\u003e』",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 195,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.2",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 196,
+						"strings": [
+							"ParticleOff",
+							"IntensiveLine",
+							"Clear",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 197,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"InputBrPage",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 198,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad_mouth_closure",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"――――。",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 199,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 200,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"1",
+							"0",
+							"0",
+							"",
+							"1",
+							"Add",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 201,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 202,
+						"strings": [
+							"Shake",
+							"吉良涼介",
+							"",
+							"time=1 x=30",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 203,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 sad",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"――――だって、アイツが。",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 204,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 205,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"急に\u003ccolor=yellow\u003e蜂楽\u003c/color\u003eが……来たから……",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 206,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 207,
+						"strings": [
+							"Tween",
+							"吉良涼介",
+							"ScaleTo",
+							"x=1.5 y=1.5 time=0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 208,
+						"strings": [
+							"Tween",
+							"吉良涼介",
+							"MoveAdd",
+							"y=-675 time=0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 209,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=90 y=90 time=1",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 210,
+						"strings": [
+							"",
+							"吉良涼介",
+							"mtn_idle_01 anger",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"急に\u003ccolor=yellow\u003e蜂楽\u003c/color\u003eが来たからぁぁぁぁぁぁぁぁ！！",
+							"",
+							"ADV_012",
+							"ADV_012_37_03"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 211,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"1",
+							"0",
+							"0",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 212,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=yellow\u003e吉良\u003c/color\u003e……くん……",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 213,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 214,
+						"strings": [
+							"Shake",
+							"吉良涼介",
+							"",
+							"time=0.5 x=30",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 215,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"…………間違ってる。",
+							"Br",
+							"ADV_012",
+							"ADV_012_04_05"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 216,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 217,
+						"strings": [
+							"",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"こんなの……絶対……！",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 218,
+						"strings": [
+							"Tween",
+							"吉良涼介",
+							"MoveBy",
+							"x=360",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 219,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"…………っ。",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 220,
+						"strings": [
+							"Tween",
+							"吉良涼介",
+							"MoveBy",
+							"x=360",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 221,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 222,
+						"strings": [
+							"Tween",
+							"吉良涼介",
+							"MoveBy",
+							"x=270 time=0.5",
+							"linear",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 223,
+						"strings": [
+							"CharacterOff",
+							"吉良涼介",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 224,
+						"strings": [
+							"WaitFadeObjects",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 225,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 226,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（……何で蹴った？",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 227,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 228,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　\u003ccolor=yellow\u003e吉良\u003c/color\u003e\u003ccolor=cyan\u003eくんのサッカー人生を、俺が終わらせた……？）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 229,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003e（なのに……\u003c/color\u003e",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 230,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 231,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"\u003ccolor=cyan\u003eなんで俺はこんなに昂ってる……？）\u003c/color\u003e",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 232,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 233,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"mtn_idle_01 fun_mouth_closure",
+							"N中",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 234,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"……なんで俺にパスしたんだよ？",
+							"Br",
+							"ADV_001",
+							"ADV_001_21_03"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 235,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 236,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"俺が蹴らなかったら、お前は失格だったんだぞ！？",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 237,
+						"strings": [
+							"Tween",
+							"蜂楽廻",
+							"MoveBy",
+							"time=0.2 y=-90",
+							"linear",
+							"pingPong=2",
+							"",
+							"PageWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 238,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"mtn_idle_01 joy",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"んー？",
+							"Next",
+							"ADV_002",
+							"ADV_002_20_01"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 239,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 240,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　だって蹴ると思ったもん。",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 241,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 242,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"そんなカオしてたー。",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 243,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"は……？",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 244,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"mtn_idle_01 fun",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"だってここは結果が全てでしょ？",
+							"Br",
+							"ADV_002",
+							"ADV_002_33_04"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 245,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 246,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 247,
+						"strings": [
+							"Tween",
+							"蜂楽廻",
+							"PunchPosition",
+							"y=100",
+							"",
+							"",
+							"",
+							"PageWait",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 248,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"mtn_idle_01 joy",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"アンタを信じた俺の勝ち♪　っしょ？",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 249,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 250,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"mtn_idle_01 fun_mouth_closure",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 251,
+						"strings": [
+							"Tween",
+							"蜂楽廻",
+							"MoveTo",
+							"x=360",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 252,
+						"strings": [
+							"",
+							"五十嵐栗夢",
+							"mtn_idle_01 sad",
+							"左",
+							"",
+							"",
+							"",
+							"",
+							"こんな理不尽なことがこの先も続くのかよぉ……",
+							"",
+							"ADV_011",
+							"ADV_011_06_01"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 253,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 254,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"mtn_idle_01 normal_mouth_closure",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 255,
+						"strings": [
+							"",
+							"五十嵐栗夢",
+							"mtn_idle_01 sad_mouth_closure",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 256,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『理不尽……？』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 257,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 258,
+						"strings": [
+							"Bg",
+							"モニター",
+							"",
+							"",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 259,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 normal",
+							"モニター",
+							"",
+							"",
+							"1",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 260,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『\u003cruby=そう\u003e理不尽\u003c/ruby\u003eですよ？",
+							"Next",
+							"ADV_501",
+							"ADV_501_29_04"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 261,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 262,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　これが勝負の世界ですから』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 263,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『お前らが軽々しく憧れてる\n　ワールドクラスのストライカーは、\n　こんな勝負の日常を命懸けで生き抜いてる』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 264,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 surprise",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『どうですか？",
+							"Br",
+							"ADV_501",
+							"ADV_501_21_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 265,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 266,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　生まれて初めて人生を懸けて戦った気分は？』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 267,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 joy",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『ビビったろ？",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 268,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 269,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　シビれたろ？",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 270,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 271,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　これが〝\u003cruby=ブルーロック\u003e青い監獄\u003c/ruby\u003e〟の常識だ』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 272,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『そして震えただろ？",
+							"Br",
+							"ADV_501",
+							"ADV_501_33_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 273,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 274,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=27 time=0.5",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 275,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　「やった、俺は生き残った」って！』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 276,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 277,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『それが〝勝利〟だ。",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 278,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 279,
+						"strings": [
+							"",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"よーーく脳に刻んどけ』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 280,
+						"strings": [
+							"Shake",
+							"Graphics",
+							"",
+							"x=45 time=0.5",
+							"",
+							"",
+							"",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 281,
+						"strings": [
+							"",
+							"潔世一",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"……っ。",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 282,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 283,
+						"strings": [
+							"",
+							"絵心甚八",
+							"mtn_idle_01 normal",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『その快感を味わう度にお前の中のエゴは育ち、\n　そして世界一のストライカーという高みへと昇っていく』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 284,
+						"strings": [
+							"CharacterOff",
+							"絵心甚八",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 285,
+						"strings": [
+							"Bg",
+							"トレーニングルームA",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 286,
+						"strings": [
+							"",
+							"潔世一",
+							"mtn_idle_01 surprise_mouth_closure",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 287,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『おめでとう。",
+							"Next",
+							"ADV_501",
+							"ADV_501_02_02"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 288,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 289,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"〝\u003cruby=ブルーロック\u003e青い監獄\u003c/ruby\u003e〟入寮テスト合格だ』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 290,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 291,
+						"strings": [
+							"CharacterOff",
+							"潔世一",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 292,
+						"strings": [
+							"",
+							"國神錬介",
+							"mtn_idle_01 normal_mouth_closure",
+							"右",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 293,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"360",
+							"360",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 294,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"540",
+							"360",
+							"",
+							"5",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 295,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 296,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『部屋にいるのはちょうど１１人。",
+							"Br",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 297,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 298,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 299,
+						"strings": [
+							"CharacterOff",
+							"國神錬介",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 300,
+						"strings": [
+							"",
+							"五十嵐栗夢",
+							"mtn_idle_01 sad",
+							"左",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 301,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"-360",
+							"360",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 302,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"-540",
+							"360",
+							"",
+							"5",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 303,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 304,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　お前らはこれから生活を共にする\u003cruby=イレブン\u003e運命共同体\u003c/ruby\u003e……』",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 305,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 306,
+						"strings": [
+							"CharacterOff",
+							"五十嵐栗夢",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 307,
+						"strings": [
+							"",
+							"成早朝日",
+							"mtn_idle_01 sad_mouth_closure",
+							"中",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 308,
+						"strings": [
+							"",
+							"今村遊大",
+							"mtn_idle_01 surprise_mouth_closure",
+							"右",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 309,
+						"strings": [
+							"",
+							"伊右衛門送人",
+							"mtn_idle_01 anger_mouth_closure",
+							"右奥",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 310,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"990",
+							"315",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 311,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"270",
+							"315",
+							"",
+							"5",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 312,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 313,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"『時に協力し、",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 314,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 315,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 316,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 317,
+						"strings": [
+							"",
+							"雷市陣吾",
+							"mtn_idle_01 joy",
+							"中",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 318,
+						"strings": [
+							"",
+							"我牙丸吟",
+							"mtn_idle_01 normal_mouth_closure",
+							"左",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 319,
+						"strings": [
+							"",
+							"久遠渉",
+							"mtn_idle_01 joy_mouth_closure",
+							"左奥",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 320,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"-990",
+							"360",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 321,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"-270",
+							"360",
+							"",
+							"5",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 322,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"NoWait",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 323,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"時に裏切り、",
+							"Next",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 324,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 325,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 326,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 327,
+						"strings": [
+							"",
+							"千切豹馬",
+							"mtn_idle_01 normal_mouth_closure",
+							"N中",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 328,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"-540",
+							"-450",
+							"",
+							"0",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 329,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"2",
+							"-540",
+							"-225",
+							"",
+							"3",
+							"NoWait",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 330,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"NoWait",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 331,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"夢を削り合う",
+							"Next"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 332,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 333,
+						"strings": [
+							"FadeOut",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 334,
+						"strings": [
+							"CharacterOff",
+							"千切豹馬",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 335,
+						"strings": [
+							"",
+							"蜂楽廻",
+							"mtn_idle_01 fun",
+							"N中",
+							"",
+							"",
+							"0",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 336,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"1",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 337,
+						"strings": [
+							"ZoomCamera",
+							"SpriteCamera",
+							"1",
+							"",
+							"",
+							"",
+							"5",
+							"NoWait",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 338,
+						"strings": [
+							"FadeIn",
+							"white",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"PageWait",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 339,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"ライバル……",
+							"Br"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 340,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1.5",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 341,
+						"strings": [
+							"CharacterOff",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"0",
+							"",
+							"",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 342,
+						"strings": [
+							"Bg",
+							"ブルーロック・外観",
+							"",
+							"",
+							"",
+							"",
+							"0.5",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 343,
+						"strings": [
+							"",
+							"絵心甚八",
+							"\u003cOff\u003e",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"　〝\u003cruby=ブルーロック\u003e青い監獄\u003c/ruby\u003e〟チームＺだ』"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 344,
+						"strings": [
+							"StopBgm",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1.5",
+							"",
+							""
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 345,
+						"strings": [
+							"FadeOut",
+							"black",
+							"",
+							"",
+							"",
+							"",
+							"1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 346,
+						"strings": [
+							"SendMessage",
+							"FadeOut"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 347,
+						"strings": [
+							"Wait",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"1"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					},
+					{
+						"rowIndex": 348,
+						"strings": [
+							"EndScenario"
+						],
+						"isEmpty": 0,
+						"isCommentOut": 0
+					}
+				],
+				"name": "Assets/BlazBattle/Scenario/Blaze/Scenarios/Built In/BLAZE/m0105.xlsx:m0105",
+				"type": 1,
+				"textLength": 8608,
+				"headerRow": 0,
+				"entityIndexTbl": [
+					
+				],
+				"entityDataList": [
+					
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "UniversalRenderPipelineAsset_Renderer_SpeedLines",
+	"m_PrefabAsset": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 2955718245277369657 },
+	"m_Structure": {
+		"debugShaders": {
+			"debugReplacementPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 3587395029544942135 },
+			"hdrDebugViewPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": -3139580859226782388 }
+		},
+		"m_RendererFeatures": [
+			{ "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 6947307840605478825 },
+			{ "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 6925414222868406185 },
+			{ "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 5127990892347875241 }
+		],
+		"m_RendererFeatureMap": [
+			5535953016502765390,
+			-1266211899853033459,
+			7405527718050637569
+		],
+		"m_UseNativeRenderPass": 0,
+		"postProcessData": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": -3106173162054772987 },
+		"xrSystemData": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 2240005545720904287 },
+		"shaders": {
+			"blitPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 8702967509424332960 },
+			"copyDepthPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": -3011343230132932097 },
+			"screenSpaceShadowPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 3861432681296121246 },
+			"samplingPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": -2193563501951445822 },
+			"stencilDeferredPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": -1934521952527329939 },
+			"fallbackErrorPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 2214449235232778024 },
+			"fallbackLoadingPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": -643500819937734446 },
+			"materialErrorPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 4976531457765713307 },
+			"coreBlitPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 1195512872977975942 },
+			"coreBlitColorAndDepthPS": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": -1867684683624153565 },
+			"blitHDROverlay": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": -4283862085072278593 },
+			"cameraMotionVector": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": -7018861453604199600 },
+			"objectMotionVector": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 9128567880979313181 },
+			"dataDrivenLensFlare": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 5227571204642524194 }
+		},
+		"m_AssetVersion": 2,
+		"m_OpaqueLayerMask": {
+			"m_Bits": 4294967295
+		},
+		"m_TransparentLayerMask": {
+			"m_Bits": 4294967295
+		},
+		"m_DefaultStencilState": {
+			"overrideStencilState": 0,
+			"stencilReference": 0,
+			"stencilCompareFunction": 8,
+			"passOperation": 2,
+			"failOperation": 0,
+			"zFailOperation": 0
+		},
+		"m_ShadowTransparentReceive": 1,
+		"m_RenderingMode": 0,
+		"m_DepthPrimingMode": 0,
+		"m_CopyDepthMode": 0,
+		"m_AccurateGbufferNormals": 0,
+		"m_IntermediateTextureMode": 1
+	}
+}

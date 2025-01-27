@@ -1,0 +1,75 @@
+{
+	"m_BuildTextureStacks": [
+		
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_CustomRenderQueue": -1,
+	"m_DisabledShaderPasses": [
+		
+	],
+	"m_DoubleSidedGI": false,
+	"m_EnableInstancingVariants": false,
+	"m_HideFlags": 0,
+	"m_InvalidKeywords": [
+		
+	],
+	"m_LightmapFlags": 5,
+	"m_LockedProperties": "",
+	"m_ModifiedSerializedProperties": 0,
+	"m_Name": "TextOutline",
+	"m_Parent": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_SavedProperties": {
+		"m_Colors": {
+			"_Color": {
+				"m_A": 1,
+				"m_B": 1,
+				"m_G": 1,
+				"m_R": 1
+			},
+			"_OutLineColor": {
+				"m_A": 1,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			}
+		},
+		"m_Floats": {
+			"_ColorMask": 15,
+			"_DistanceX": 1,
+			"_DistanceY": 1,
+			"_OffsetX": 1,
+			"_OffsetY": 1,
+			"_Stencil": 0,
+			"_StencilComp": 8,
+			"_StencilOp": 0,
+			"_StencilReadMask": 255,
+			"_StencilWriteMask": 255,
+			"_UseUIAlphaClip": 0
+		},
+		"m_Ints": {
+			
+		},
+		"m_TexEnvs": {
+			"_MainTex": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "resources.assets", "m_PathID": 0 }
+			}
+		}
+	},
+	"m_Shader": { "m_Collection": "resources.assets", "m_PathID": 205 },
+	"m_StringTagMap": {
+		
+	},
+	"m_ValidKeywords": [
+		
+	]
+}

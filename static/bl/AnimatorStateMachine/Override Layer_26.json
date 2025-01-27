@@ -1,0 +1,157 @@
+{
+	"m_AnyStatePosition": {
+		"m_X": 0,
+		"m_Y": -250,
+		"m_Z": 0
+	},
+	"m_AnyStateTransitions": [
+		
+	],
+	"m_ChildStateMachines": [
+		
+	],
+	"m_ChildStates": [
+		{
+			"m_Position": {
+				"m_X": 0,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 761 }
+		},
+		{
+			"m_Position": {
+				"m_X": 250,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 762 }
+		},
+		{
+			"m_Position": {
+				"m_X": 500,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 763 }
+		},
+		{
+			"m_Position": {
+				"m_X": 750,
+				"m_Y": 0,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 764 }
+		},
+		{
+			"m_Position": {
+				"m_X": 0,
+				"m_Y": 250,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 765 }
+		},
+		{
+			"m_Position": {
+				"m_X": 250,
+				"m_Y": 250,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 766 }
+		},
+		{
+			"m_Position": {
+				"m_X": 500,
+				"m_Y": 250,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 767 }
+		},
+		{
+			"m_Position": {
+				"m_X": 750,
+				"m_Y": 250,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 768 }
+		},
+		{
+			"m_Position": {
+				"m_X": 0,
+				"m_Y": 500,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 769 }
+		},
+		{
+			"m_Position": {
+				"m_X": 250,
+				"m_Y": 500,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 770 }
+		},
+		{
+			"m_Position": {
+				"m_X": 500,
+				"m_Y": 500,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 771 }
+		},
+		{
+			"m_Position": {
+				"m_X": 750,
+				"m_Y": 500,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 772 }
+		},
+		{
+			"m_Position": {
+				"m_X": 0,
+				"m_Y": 750,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 773 }
+		},
+		{
+			"m_Position": {
+				"m_X": 250,
+				"m_Y": 750,
+				"m_Z": 0
+			},
+			"m_State": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 774 }
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 0 },
+	"m_DefaultState": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 761 },
+	"m_EntryPosition": {
+		"m_X": 250,
+		"m_Y": -250,
+		"m_Z": 0
+	},
+	"m_EntryTransitions": [
+		
+	],
+	"m_ExitPosition": {
+		"m_X": 500,
+		"m_Y": -250,
+		"m_Z": 0
+	},
+	"m_HideFlags": 1,
+	"m_Name": "Override Layer",
+	"m_ParentStateMachinePosition": {
+		"m_X": 800,
+		"m_Y": 20,
+		"m_Z": 0
+	},
+	"m_PrefabAsset": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 0 },
+	"m_StateMachineBehaviours": [
+		
+	],
+	"m_StateMachineTransitions": [
+		
+	]
+}

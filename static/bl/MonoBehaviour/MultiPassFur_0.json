@@ -1,0 +1,32 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "MultiPassFur",
+	"m_PrefabAsset": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-2acf5a388c03141326b8650e076d3dc0", "m_PathID": 6760880346395361325 },
+	"m_Structure": {
+		"m_Active": 1,
+		"settings": {
+			"passTag": "Fur ForwardLit",
+			"ShellAmount": 10,
+			"PassEvent": 250,
+			"filterSettings": {
+				"LayerMask": {
+					"m_Bits": 4294967295
+				},
+				"PassNames": [
+					"UniversalForwardFur",
+					"DepthOnlyFur",
+					"DepthNormalsFur",
+					"ShadowCasterFur",
+					"UniversalGBufferFur"
+				]
+			}
+		}
+	}
+}

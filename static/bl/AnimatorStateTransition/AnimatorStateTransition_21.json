@@ -1,0 +1,27 @@
+{
+	"m_CanTransitionToSelf": true,
+	"m_Conditions": [
+		{
+			"m_ConditionEvent": "Display",
+			"m_ConditionMode": 1,
+			"m_EventTreshold": 0
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 0 },
+	"m_DstState": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 174 },
+	"m_DstStateMachine": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 0 },
+	"m_ExitTime": 0.75,
+	"m_HasExitTime": false,
+	"m_HasFixedDuration": false,
+	"m_HideFlags": 1,
+	"m_InterruptionSource": 0,
+	"m_IsExit": false,
+	"m_Mute": false,
+	"m_Name": "",
+	"m_OrderedInterruption": true,
+	"m_PrefabAsset": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "Generated AnimatorController Dependencies", "m_PathID": 0 },
+	"m_Solo": false,
+	"m_TransitionDuration": 0,
+	"m_TransitionOffset": 0
+}

@@ -1,0 +1,439 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "PreloadIngameShaderVariants",
+	"m_PrefabAsset": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 },
+	"m_Shaders": [
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": -49094566981905940 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 0
+					}
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": -1930196052099794872 },
+			"Value": {
+				"m_Variants": [
+					
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 8784747972888320877 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 0
+					}
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": -6688618488712999185 },
+			"Value": {
+				"m_Variants": [
+					
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": -4055751637662985151 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 8
+					},
+					{
+						"m_Keywords": "_ALPHATEST_ON",
+						"m_PassType": 8
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _OCCLUSIONMAP _SHADOWS_SOFT _SPECULAR_SETUP",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _OCCLUSIONMAP _SPECULAR_SETUP",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _OCCLUSIONMAP _SPECULAR_SETUP",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX _ADDITIONAL_LIGHTS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					}
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 8863847686575638089 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 8
+					},
+					{
+						"m_Keywords": "N_F_TRANSAFFSHA_ON",
+						"m_PassType": 8
+					},
+					{
+						"m_Keywords": "N_F_TRANSAFFSHA_ON N_F_TRANS_ON",
+						"m_PassType": 8
+					},
+					{
+						"m_Keywords": "N_F_TRANS_ON",
+						"m_PassType": 8
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED FOG_EXP LIGHTMAP_ON N_F_CA_ON N_F_EAL_ON N_F_RELGI_ON N_F_R_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED FOG_EXP LIGHTMAP_ON N_F_CA_ON N_F_EAL_ON N_F_RELGI_ON N_F_R_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED FOG_EXP LIGHTMAP_ON N_F_CA_ON N_F_EAL_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED FOG_EXP LIGHTMAP_ON N_F_CA_ON N_F_EAL_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED FOG_EXP LIGHTMAP_ON N_F_CA_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED FOG_EXP LIGHTMAP_ON N_F_CA_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED FOG_EXP LIGHTMAP_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED LIGHTMAP_ON N_F_CA_ON N_F_EAL_ON N_F_RELGI_ON N_F_R_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED LIGHTMAP_ON N_F_CA_ON N_F_EAL_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED LIGHTMAP_ON N_F_CA_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED LIGHTMAP_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CA_ON N_F_EAL_ON N_F_OFLMB_ON N_F_RELGI_ON N_F_SS_ON N_F_TRANS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CA_ON N_F_EAL_ON N_F_OFLMB_ON N_F_RELGI_ON N_F_SS_ON N_F_TRANS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CA_ON N_F_EAL_ON N_F_OFLMB_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CA_ON N_F_EAL_ON N_F_OFLMB_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CA_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CA_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_NM_ON N_F_RELGI_ON N_F_SCT_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_NM_ON N_F_RELGI_ON N_F_SCT_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_NM_ON N_F_SCT_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_NM_ON N_F_SCT_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_RELGI_ON N_F_SCT_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_RELGI_ON N_F_SCT_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_SCT_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_EAL_ON N_F_SCT_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_NM_ON N_F_RL_ON N_F_SON_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_NM_ON N_F_RL_ON N_F_SON_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_SCT_ON N_F_SON_ON N_F_SS_ON N_F_ST_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_SCT_ON N_F_SON_ON N_F_SS_ON N_F_ST_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_SCT_ON N_F_SON_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_SCT_ON N_F_SON_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_SCT_ON N_F_SS_ON N_F_TRANS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_CLD_ON N_F_SCT_ON N_F_SS_ON N_F_TRANS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_EAL_ON N_F_RELGI_ON N_F_RL_ON N_F_R_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_EAL_ON N_F_RELGI_ON N_F_RL_ON N_F_R_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP N_F_SON_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "N_F_CA_ON N_F_EAL_ON N_F_OFLMB_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "N_F_CA_ON N_F_RELGI_ON N_F_SS_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "_ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "_ADDITIONAL_LIGHTS",
+						"m_PassType": 14
+					}
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 3163150583322021543 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 8
+					},
+					{
+						"m_Keywords": "_ALPHATEST_ON",
+						"m_PassType": 8
+					},
+					{
+						"m_Keywords": "_GLOSSINESS_FROM_BASE_ALPHA",
+						"m_PassType": 8
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED EVALUATE_SH_VERTEX FOG_EXP LIGHTMAP_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _EMISSION _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED EVALUATE_SH_VERTEX FOG_EXP LIGHTMAP_ON _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _EMISSION _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "DIRLIGHTMAP_COMBINED EVALUATE_SH_VERTEX FOG_EXP LIGHTMAP_ON _ADDITIONAL_LIGHTS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _EMISSION _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _ALPHATEST_ON _EMISSION _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _EMISSION _MAIN_LIGHT_SHADOWS _RECEIVE_SHADOWS_OFF",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _EMISSION _MAIN_LIGHT_SHADOWS _RECEIVE_SHADOWS_OFF _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _RECEIVE_SHADOWS_OFF",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _RECEIVE_SHADOWS_OFF _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX FOG_EXP _ADDITIONAL_LIGHTS _MAIN_LIGHT_SHADOWS _RECEIVE_SHADOWS_OFF",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _EMISSION _MAIN_LIGHT_SHADOWS _RECEIVE_SHADOWS_OFF",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _RECEIVE_SHADOWS_OFF",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "EVALUATE_SH_VERTEX _ADDITIONAL_LIGHTS _MAIN_LIGHT_SHADOWS _RECEIVE_SHADOWS_OFF",
+						"m_PassType": 13
+					}
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": -1014363312139282004 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "FOG_EXP _ADDITIONAL_LIGHTS _ADDITIONAL_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS _SHADOWS_SOFT",
+						"m_PassType": 13
+					},
+					{
+						"m_Keywords": "",
+						"m_PassType": 14
+					}
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 3995831121809526457 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 0
+					}
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": -3090875209813834231 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 0
+					}
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": -4579103759276664979 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 0
+					}
+				]
+			}
+		},
+		{
+			"Key": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 4001222127823053956 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "",
+						"m_PassType": 0
+					}
+				]
+			}
+		}
+	]
+}

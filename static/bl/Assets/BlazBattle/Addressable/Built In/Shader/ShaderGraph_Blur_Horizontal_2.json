@@ -1,0 +1,87 @@
+{
+	"m_BuildTextureStacks": [
+		
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 },
+	"m_CustomRenderQueue": -1,
+	"m_DisabledShaderPasses": [
+		
+	],
+	"m_DoubleSidedGI": false,
+	"m_EnableInstancingVariants": false,
+	"m_HideFlags": 0,
+	"m_InvalidKeywords": [
+		
+	],
+	"m_LightmapFlags": 4,
+	"m_LockedProperties": "",
+	"m_ModifiedSerializedProperties": 0,
+	"m_Name": "ShaderGraph_Blur_Horizontal",
+	"m_Parent": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 },
+	"m_SavedProperties": {
+		"m_Colors": {
+			
+		},
+		"m_Floats": {
+			"_Blur": 1
+		},
+		"m_Ints": {
+			
+		},
+		"m_TexEnvs": {
+			"_MainTex": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 }
+			},
+			"unity_Lightmaps": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 }
+			},
+			"unity_LightmapsInd": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 }
+			},
+			"unity_ShadowMasks": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": 0 }
+			}
+		}
+	},
+	"m_Shader": { "m_Collection": "cab-cad8216512460545ce2b7d04b8736878", "m_PathID": -5949641894624608864 },
+	"m_StringTagMap": {
+		
+	},
+	"m_ValidKeywords": [
+		
+	]
+}

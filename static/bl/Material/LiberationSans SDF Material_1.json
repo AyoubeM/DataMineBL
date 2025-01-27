@@ -1,0 +1,107 @@
+{
+	"m_BuildTextureStacks": [
+		
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-b8df35638f7cc1c741a73aabc74fd428", "m_PathID": 0 },
+	"m_CustomRenderQueue": -1,
+	"m_DisabledShaderPasses": [
+		
+	],
+	"m_DoubleSidedGI": false,
+	"m_EnableInstancingVariants": false,
+	"m_HideFlags": 0,
+	"m_InvalidKeywords": [
+		
+	],
+	"m_LightmapFlags": 1,
+	"m_LockedProperties": "",
+	"m_ModifiedSerializedProperties": 0,
+	"m_Name": "LiberationSans SDF Material",
+	"m_Parent": { "m_Collection": "cab-b8df35638f7cc1c741a73aabc74fd428", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "cab-b8df35638f7cc1c741a73aabc74fd428", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-b8df35638f7cc1c741a73aabc74fd428", "m_PathID": 0 },
+	"m_SavedProperties": {
+		"m_Colors": {
+			"_ClipRect": {
+				"m_A": 32767,
+				"m_B": 32767,
+				"m_G": -32767,
+				"m_R": -32767
+			},
+			"_FaceColor": {
+				"m_A": 1,
+				"m_B": 1,
+				"m_G": 1,
+				"m_R": 1
+			},
+			"_OutlineColor": {
+				"m_A": 1,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_UnderlayColor": {
+				"m_A": 0.5,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			}
+		},
+		"m_Floats": {
+			"_ColorMask": 15,
+			"_CullMode": 0,
+			"_FaceDilate": 0,
+			"_GradientScale": 10,
+			"_MaskSoftnessX": 0,
+			"_MaskSoftnessY": 0,
+			"_OutlineSoftness": 0,
+			"_OutlineWidth": 0.15,
+			"_PerspectiveFilter": 0.875,
+			"_ScaleRatioA": 0.9,
+			"_ScaleRatioB": 1,
+			"_ScaleRatioC": 0.73125,
+			"_ScaleX": 1,
+			"_ScaleY": 1,
+			"_ShaderFlags": 0,
+			"_Sharpness": 0,
+			"_Stencil": 0,
+			"_StencilComp": 8,
+			"_StencilOp": 0,
+			"_StencilReadMask": 255,
+			"_StencilWriteMask": 255,
+			"_TextureHeight": 1024,
+			"_TextureWidth": 1024,
+			"_UnderlayDilate": 0,
+			"_UnderlayOffsetX": 0,
+			"_UnderlayOffsetY": 0,
+			"_UnderlaySoftness": 0,
+			"_VertexOffsetX": 0,
+			"_VertexOffsetY": 0,
+			"_WeightBold": 0.75,
+			"_WeightNormal": 0
+		},
+		"m_Ints": {
+			
+		},
+		"m_TexEnvs": {
+			"_MainTex": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "cab-b8df35638f7cc1c741a73aabc74fd428", "m_PathID": 5489587019476456955 }
+			}
+		}
+	},
+	"m_Shader": { "m_FileID": 1, "m_PathID": 7030032868776217633 },
+	"m_StringTagMap": {
+		
+	},
+	"m_ValidKeywords": [
+		"OUTLINE_ON"
+	]
+}

@@ -1,0 +1,98 @@
+{
+	"m_ConfigObjects": {
+		
+	},
+	"m_HideFlags": 0,
+	"m_Scenes": [
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 1786657550,
+				"m_Data_1_": 1215385300,
+				"m_Data_2_": 2065452213,
+				"m_Data_3_": 3321692833
+			},
+			"m_Path": "Assets/BlazBattle/Scenes/GameGuardOnScene.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 1393272375,
+				"m_Data_1_": 1286363204,
+				"m_Data_2_": 3286460835,
+				"m_Data_3_": 104190165
+			},
+			"m_Path": "Assets/BlazBattle/Scenes/StartUpScene.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 3063082269,
+				"m_Data_1_": 1154658704,
+				"m_Data_2_": 1785499026,
+				"m_Data_3_": 338418987
+			},
+			"m_Path": "Assets/BlazBattle/Scenes/OutGame/SplashScene.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 669547757,
+				"m_Data_1_": 1103659744,
+				"m_Data_2_": 1903730321,
+				"m_Data_3_": 491521110
+			},
+			"m_Path": "Assets/BlazBattle/Scenes/OutGame/HomeScene.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 3354414806,
+				"m_Data_1_": 1160540270,
+				"m_Data_2_": 1982159550,
+				"m_Data_3_": 568885069
+			},
+			"m_Path": "Assets/BlazBattle/Scenes/OutGame/ResultScene.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 3038724575,
+				"m_Data_1_": 1334466484,
+				"m_Data_2_": 1695105159,
+				"m_Data_3_": 1343261018
+			},
+			"m_Path": "Assets/BlazBattle/Scenes/OutGame/TitleScene.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 3696341006,
+				"m_Data_1_": 1291482990,
+				"m_Data_2_": 121968307,
+				"m_Data_3_": 4073785248
+			},
+			"m_Path": "Assets/BlazBattle/Scenes/OutGame/DownloadScene.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 2642238877,
+				"m_Data_1_": 1169258498,
+				"m_Data_2_": 3621535362,
+				"m_Data_3_": 594545142
+			},
+			"m_Path": "Assets/BlazBattle/Scenes/OutGame/GachaResult_SupportCard.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 2791269063,
+				"m_Data_1_": 1183986327,
+				"m_Data_2_": 3208678544,
+				"m_Data_3_": 2440181363
+			},
+			"m_Path": "Assets/BlazBattle/Scenes/OutGame/GachaResult_Unit.unity"
+		}
+	]
+}

@@ -1,0 +1,532 @@
+{
+	"m_CompilationContext": {
+		"m_BuildTarget": {
+			"m_ExtendedPlatform": 0,
+			"m_IsEditor": 0,
+			"m_Platform": 0,
+			"m_SubTarget": 0
+		},
+		"m_CompilationFlags": 0,
+		"m_IncludeHash0": 0,
+		"m_IncludeHash1": 0,
+		"m_IncludeHash2": 0,
+		"m_IncludeHash3": 0,
+		"m_KernelMacros": [
+			
+		],
+		"m_Kernels": [
+			
+		],
+		"m_NeverUseDxcAPIs": 0,
+		"m_PlatformGroup": 0,
+		"m_Source": "",
+		"m_SourceFile": "",
+		"m_SourceFileName": "",
+		"m_SupportedAPIs": 0,
+		"m_UseDxcAPIs": 0
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "unity default resources", "m_PathID": 0 },
+	"m_Errors": [
+		
+	],
+	"m_HideFlags": 0,
+	"m_Name": "Internal-VT-TranslationTableReplace",
+	"m_PrefabAsset": { "m_Collection": "unity default resources", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "unity default resources", "m_PathID": 0 },
+	"m_Variants": [
+		{
+			"m_CompilerPlatform": 0,
+			"m_ConstantBuffers": [
+				{
+					"m_ByteSize": 16,
+					"m_Name": "cbReplacementData",
+					"m_Params": [
+						{
+							"m_ArraySize": 0,
+							"m_ColCount": 1,
+							"m_Name": "numReplacements",
+							"m_Offset": 0,
+							"m_RowCount": 1,
+							"m_Type": 5
+						}
+					]
+				}
+			],
+			"m_KernelParents": [
+				{
+					"m_DynamicKeywords": [
+						
+					],
+					"m_GlobalKeywords": [
+						
+					],
+					"m_LocalKeywords": [
+						
+					],
+					"m_Name": "ReplaceTranslationTable",
+					"m_UniqueVariants": [
+						{
+							"m_BuiltinSamplers": [
+								
+							],
+							"m_Cbs": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "cbReplacementData",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_CbVariantIndices": [
+								0
+							],
+							"m_Code": "RFhCQ4h+0yUpm++mNLjMHSOxi8kBAAAAlAEAAAMAAAAsAAAAPAAAAEwAAABJU0dOCAAAAAAAAAAIAAAAT1NHTggAAAAAAAAACAAAAFNIRVhAAQAAUAAFAFAAAABqCAABWQAABEaOIAAAAAAAAQAAAKEAAAMAcBAAAAAAAJ0AAAMA4BEAAAAAAF8AAAISEAIAXwAAAhIgAgBoAAACAQAAAJsAAAQAAQAAAQAAAAEAAAAjAAAHEgAQAAAAAAAKEAIAAUAAAAABAAAKIAIATwAACBIAEAAAAAAACgAQAAAAAAAKgCAAAAAAAAAAAAAfAAQDCgAQAAAAAAApAAAGEgAQAAAAAAAKIAIAAUAAAAMAAAAjAAAIEgAQAAAAAAAKEAIAAUAAAAAIAAAKABAAAAAAAKUAAInCAgCAg5kZADIAEAAAAAAACgAQAAAAAABGcBAAAAAAACkAAAcSABAAAAAAAAoAEAAAAAAAAUAAAAIAAACmAAAHEuARAAAAAAAKABAAAAAAABoAEAAAAAAAFQAAAT4AAAE=",
+							"m_InBuffers": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "_input_map",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_IsCompiled": false,
+							"m_Keywords": [
+								
+							],
+							"m_OutBuffers": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "_output_buf",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_Requirements": 16385,
+							"m_Textures": [
+								
+							],
+							"m_ThreadGroupSize": [
+								256,
+								1,
+								1
+							]
+						}
+					],
+					"m_VariantIndices": [
+						{
+							"Key": "",
+							"Value": 0
+						}
+					]
+				}
+			],
+			"m_NeedsReflectionData": false,
+			"m_ResourcesResolved": true,
+			"m_TargetLevel": 0,
+			"m_TargetRenderer": 2
+		},
+		{
+			"m_CompilerPlatform": 0,
+			"m_ConstantBuffers": [
+				{
+					"m_ByteSize": 16,
+					"m_Name": "cbReplacementData",
+					"m_Params": [
+						{
+							"m_ArraySize": 0,
+							"m_ColCount": 1,
+							"m_Name": "numReplacements",
+							"m_Offset": 0,
+							"m_RowCount": 1,
+							"m_Type": 5
+						}
+					]
+				}
+			],
+			"m_KernelParents": [
+				{
+					"m_DynamicKeywords": [
+						
+					],
+					"m_GlobalKeywords": [
+						
+					],
+					"m_LocalKeywords": [
+						
+					],
+					"m_Name": "ReplaceTranslationTable",
+					"m_UniqueVariants": [
+						{
+							"m_BuiltinSamplers": [
+								
+							],
+							"m_Cbs": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "cbReplacementData",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_CbVariantIndices": [
+								0
+							],
+							"m_Code": "I3ZlcnNpb24gMzEwIGVzCgojZGVmaW5lIEhMU0xDQ19FTkFCTEVfVU5JRk9STV9CVUZGRVJTIDEKI2lmIEhMU0xDQ19FTkFCTEVfVU5JRk9STV9CVUZGRVJTCiNkZWZpbmUgVU5JVFlfVU5JRk9STQojZWxzZQojZGVmaW5lIFVOSVRZX1VOSUZPUk0gdW5pZm9ybQojZW5kaWYKI2RlZmluZSBVTklUWV9TVVBQT1JUU19VTklGT1JNX0xPQ0FUSU9OIDEKI2lmIFVOSVRZX1NVUFBPUlRTX1VOSUZPUk1fTE9DQVRJT04KI2RlZmluZSBVTklUWV9MT0NBVElPTih4KSBsYXlvdXQobG9jYXRpb24gPSB4KQojZGVmaW5lIFVOSVRZX0JJTkRJTkcoeCkgbGF5b3V0KGJpbmRpbmcgPSB4LCBzdGQxNDApCiNlbHNlCiNkZWZpbmUgVU5JVFlfTE9DQVRJT04oeCkKI2RlZmluZSBVTklUWV9CSU5ESU5HKHgpIGxheW91dChzdGQxNDApCiNlbmRpZgpVTklUWV9CSU5ESU5HKDApIHVuaWZvcm0gY2JSZXBsYWNlbWVudERhdGEgewoJdWludCBudW1SZXBsYWNlbWVudHM7Cgl1aW50IHBhZDA7Cgl1aW50IHBhZDE7Cgl1aW50IHBhZDI7Cn07CmxheW91dChzdGQ0MzAsIGJpbmRpbmcgPSAxKSByZWFkb25seSBidWZmZXIgX2lucHV0X21hcCB7Cgl1aW50IF9pbnB1dF9tYXBfYnVmW107Cn07CmxheW91dChzdGQ0MzAsIGJpbmRpbmcgPSAwKSBidWZmZXIgX291dHB1dF9idWYgewoJdWludCBfb3V0cHV0X2J1Zl9idWZbXTsKfTsKdmVjMiB1X3hsYXQwOwppbnQgdV94bGF0aTA7CnVpbnQgdV94bGF0dTA7CmJvb2wgdV94bGF0YjA7CmxheW91dChsb2NhbF9zaXplX3ggPSAyNTYsIGxvY2FsX3NpemVfeSA9IDEsIGxvY2FsX3NpemVfeiA9IDEpIGluOwp2b2lkIG1haW4oKQp7CiAgICB1X3hsYXR1MCA9IGdsX1dvcmtHcm91cElELnggKiAyNTZ1ICsgZ2xfTG9jYWxJbnZvY2F0aW9uSUQueDsKICAgIHVfeGxhdGIwID0gdV94bGF0dTA8bnVtUmVwbGFjZW1lbnRzOwogICAgaWYodV94bGF0YjApewogICAgICAgIHVfeGxhdGkwID0gaW50KGdsX0xvY2FsSW52b2NhdGlvbklELngpIDw8ICgzICYgaW50KDB4MUYpKTsKICAgICAgICB1X3hsYXRpMCA9IGludChnbF9Xb3JrR3JvdXBJRC54KSAqIDIwNDggKyB1X3hsYXRpMDsKICAgICAgICB1X3hsYXQwLnh5ID0gdmVjMih1aW50Qml0c1RvRmxvYXQoX2lucHV0X21hcF9idWZbKHVfeGxhdGkwID4+IDIpICsgMF0pLCB1aW50Qml0c1RvRmxvYXQoX2lucHV0X21hcF9idWZbKHVfeGxhdGkwID4+IDIpICsgMV0pKTsKICAgICAgICB1X3hsYXRpMCA9IGZsb2F0Qml0c1RvSW50KHVfeGxhdDAueCkgPDwgKDIgJiBpbnQoMHgxRikpOwogICAgICAgIF9vdXRwdXRfYnVmX2J1ZlsodV94bGF0aTAgPj4gMildID0gdWludChmbG9hdEJpdHNUb1VpbnQodV94bGF0MC55KSk7CiAgICB9CiAgICByZXR1cm47Cn0KAA==",
+							"m_InBuffers": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "_input_map",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_IsCompiled": false,
+							"m_Keywords": [
+								
+							],
+							"m_OutBuffers": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "_output_buf",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_Requirements": 16385,
+							"m_Textures": [
+								
+							],
+							"m_ThreadGroupSize": [
+								256,
+								1,
+								1
+							]
+						}
+					],
+					"m_VariantIndices": [
+						{
+							"Key": "",
+							"Value": 0
+						}
+					]
+				}
+			],
+			"m_NeedsReflectionData": false,
+			"m_ResourcesResolved": true,
+			"m_TargetLevel": 3,
+			"m_TargetRenderer": 11
+		},
+		{
+			"m_CompilerPlatform": 0,
+			"m_ConstantBuffers": [
+				{
+					"m_ByteSize": 16,
+					"m_Name": "cbReplacementData",
+					"m_Params": [
+						{
+							"m_ArraySize": 0,
+							"m_ColCount": 1,
+							"m_Name": "numReplacements",
+							"m_Offset": 0,
+							"m_RowCount": 1,
+							"m_Type": 5
+						}
+					]
+				}
+			],
+			"m_KernelParents": [
+				{
+					"m_DynamicKeywords": [
+						
+					],
+					"m_GlobalKeywords": [
+						
+					],
+					"m_LocalKeywords": [
+						
+					],
+					"m_Name": "ReplaceTranslationTable",
+					"m_UniqueVariants": [
+						{
+							"m_BuiltinSamplers": [
+								
+							],
+							"m_Cbs": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "cbReplacementData",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_CbVariantIndices": [
+								0
+							],
+							"m_Code": "I3ZlcnNpb24gNDMwCiNleHRlbnNpb24gR0xfQVJCX3NoYWRpbmdfbGFuZ3VhZ2VfNDIwcGFjayA6IHJlcXVpcmUKCiNkZWZpbmUgSExTTENDX0VOQUJMRV9VTklGT1JNX0JVRkZFUlMgMQojaWYgSExTTENDX0VOQUJMRV9VTklGT1JNX0JVRkZFUlMKI2RlZmluZSBVTklUWV9VTklGT1JNCiNlbHNlCiNkZWZpbmUgVU5JVFlfVU5JRk9STSB1bmlmb3JtCiNlbmRpZgojZGVmaW5lIFVOSVRZX1NVUFBPUlRTX1VOSUZPUk1fTE9DQVRJT04gMQojaWYgVU5JVFlfU1VQUE9SVFNfVU5JRk9STV9MT0NBVElPTgojZGVmaW5lIFVOSVRZX0xPQ0FUSU9OKHgpIGxheW91dChsb2NhdGlvbiA9IHgpCiNkZWZpbmUgVU5JVFlfQklORElORyh4KSBsYXlvdXQoYmluZGluZyA9IHgsIHN0ZDE0MCkKI2Vsc2UKI2RlZmluZSBVTklUWV9MT0NBVElPTih4KQojZGVmaW5lIFVOSVRZX0JJTkRJTkcoeCkgbGF5b3V0KHN0ZDE0MCkKI2VuZGlmCnByZWNpc2UgdmVjNCB1X3hsYXRfcHJlY2lzZV92ZWM0OwpwcmVjaXNlIGl2ZWM0IHVfeGxhdF9wcmVjaXNlX2l2ZWM0OwpwcmVjaXNlIGJ2ZWM0IHVfeGxhdF9wcmVjaXNlX2J2ZWM0OwpwcmVjaXNlIHV2ZWM0IHVfeGxhdF9wcmVjaXNlX3V2ZWM0OwpVTklUWV9CSU5ESU5HKDApIHVuaWZvcm0gY2JSZXBsYWNlbWVudERhdGEgewoJdWludCBudW1SZXBsYWNlbWVudHM7Cgl1aW50IHBhZDA7Cgl1aW50IHBhZDE7Cgl1aW50IHBhZDI7Cn07CmxheW91dChzdGQ0MzAsIGJpbmRpbmcgPSAxKSByZWFkb25seSBidWZmZXIgX2lucHV0X21hcCB7Cgl1aW50IF9pbnB1dF9tYXBfYnVmW107Cn07CmxheW91dChzdGQ0MzAsIGJpbmRpbmcgPSAwKSBidWZmZXIgX291dHB1dF9idWYgewoJdWludCBfb3V0cHV0X2J1Zl9idWZbXTsKfTsKdmVjMiB1X3hsYXQwOwppbnQgdV94bGF0aTA7CnVpbnQgdV94bGF0dTA7CmJvb2wgdV94bGF0YjA7CmxheW91dChsb2NhbF9zaXplX3ggPSAyNTYsIGxvY2FsX3NpemVfeSA9IDEsIGxvY2FsX3NpemVfeiA9IDEpIGluOwp2b2lkIG1haW4oKQp7CiAgICB1X3hsYXR1MCA9IGdsX1dvcmtHcm91cElELnggKiAyNTZ1ICsgZ2xfTG9jYWxJbnZvY2F0aW9uSUQueDsKICAgIHVfeGxhdGIwID0gdV94bGF0dTA8bnVtUmVwbGFjZW1lbnRzOwogICAgaWYodV94bGF0YjApewogICAgICAgIHVfeGxhdGkwID0gaW50KGdsX0xvY2FsSW52b2NhdGlvbklELngpIDw8ICgzICYgaW50KDB4MUYpKTsKICAgICAgICB1X3hsYXRpMCA9IGludChnbF9Xb3JrR3JvdXBJRC54KSAqIDIwNDggKyB1X3hsYXRpMDsKICAgICAgICB1X3hsYXQwLnh5ID0gdmVjMih1aW50Qml0c1RvRmxvYXQoX2lucHV0X21hcF9idWZbKHVfeGxhdGkwID4+IDIpICsgMF0pLCB1aW50Qml0c1RvRmxvYXQoX2lucHV0X21hcF9idWZbKHVfeGxhdGkwID4+IDIpICsgMV0pKTsKICAgICAgICB1X3hsYXRpMCA9IGZsb2F0Qml0c1RvSW50KHVfeGxhdDAueCkgPDwgKDIgJiBpbnQoMHgxRikpOwogICAgICAgIF9vdXRwdXRfYnVmX2J1ZlsodV94bGF0aTAgPj4gMildID0gZmxvYXRCaXRzVG9VaW50KHVfeGxhdDAueSk7CiAgICB9CiAgICByZXR1cm47Cn0KAA==",
+							"m_InBuffers": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "_input_map",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_IsCompiled": false,
+							"m_Keywords": [
+								
+							],
+							"m_OutBuffers": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "_output_buf",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_Requirements": 16385,
+							"m_Textures": [
+								
+							],
+							"m_ThreadGroupSize": [
+								256,
+								1,
+								1
+							]
+						}
+					],
+					"m_VariantIndices": [
+						{
+							"Key": "",
+							"Value": 0
+						}
+					]
+				}
+			],
+			"m_NeedsReflectionData": false,
+			"m_ResourcesResolved": true,
+			"m_TargetLevel": 11,
+			"m_TargetRenderer": 17
+		},
+		{
+			"m_CompilerPlatform": 0,
+			"m_ConstantBuffers": [
+				{
+					"m_ByteSize": 16,
+					"m_Name": "cbReplacementData",
+					"m_Params": [
+						{
+							"m_ArraySize": 0,
+							"m_ColCount": 1,
+							"m_Name": "numReplacements",
+							"m_Offset": 0,
+							"m_RowCount": 1,
+							"m_Type": 5
+						}
+					]
+				}
+			],
+			"m_KernelParents": [
+				{
+					"m_DynamicKeywords": [
+						
+					],
+					"m_GlobalKeywords": [
+						
+					],
+					"m_LocalKeywords": [
+						
+					],
+					"m_Name": "ReplaceTranslationTable",
+					"m_UniqueVariants": [
+						{
+							"m_BuiltinSamplers": [
+								
+							],
+							"m_Cbs": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "cbReplacementData",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_CbVariantIndices": [
+								0
+							],
+							"m_Code": "RFhCQ4h+0yUpm++mNLjMHSOxi8kBAAAAlAEAAAMAAAAsAAAAPAAAAEwAAABJU0dOCAAAAAAAAAAIAAAAT1NHTggAAAAAAAAACAAAAFNIRVhAAQAAUAAFAFAAAABqCAABWQAABEaOIAAAAAAAAQAAAKEAAAMAcBAAAAAAAJ0AAAMA4BEAAAAAAF8AAAISEAIAXwAAAhIgAgBoAAACAQAAAJsAAAQAAQAAAQAAAAEAAAAjAAAHEgAQAAAAAAAKEAIAAUAAAAABAAAKIAIATwAACBIAEAAAAAAACgAQAAAAAAAKgCAAAAAAAAAAAAAfAAQDCgAQAAAAAAApAAAGEgAQAAAAAAAKIAIAAUAAAAMAAAAjAAAIEgAQAAAAAAAKEAIAAUAAAAAIAAAKABAAAAAAAKUAAInCAgCAg5kZADIAEAAAAAAACgAQAAAAAABGcBAAAAAAACkAAAcSABAAAAAAAAoAEAAAAAAAAUAAAAIAAACmAAAHEuARAAAAAAAKABAAAAAAABoAEAAAAAAAFQAAAT4AAAE=",
+							"m_InBuffers": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "_input_map",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_IsCompiled": false,
+							"m_Keywords": [
+								
+							],
+							"m_OutBuffers": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "_output_buf",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_Requirements": 16385,
+							"m_Textures": [
+								
+							],
+							"m_ThreadGroupSize": [
+								256,
+								1,
+								1
+							]
+						}
+					],
+					"m_VariantIndices": [
+						{
+							"Key": "",
+							"Value": 0
+						}
+					]
+				}
+			],
+			"m_NeedsReflectionData": false,
+			"m_ResourcesResolved": true,
+			"m_TargetLevel": 0,
+			"m_TargetRenderer": 18
+		},
+		{
+			"m_CompilerPlatform": 0,
+			"m_ConstantBuffers": [
+				{
+					"m_ByteSize": 16,
+					"m_Name": "cbReplacementData",
+					"m_Params": [
+						{
+							"m_ArraySize": 0,
+							"m_ColCount": 1,
+							"m_Name": "numReplacements",
+							"m_Offset": 0,
+							"m_RowCount": 1,
+							"m_Type": 1
+						},
+						{
+							"m_ArraySize": 0,
+							"m_ColCount": 1,
+							"m_Name": "pad0",
+							"m_Offset": 4,
+							"m_RowCount": 1,
+							"m_Type": 1
+						},
+						{
+							"m_ArraySize": 0,
+							"m_ColCount": 1,
+							"m_Name": "pad1",
+							"m_Offset": 8,
+							"m_RowCount": 1,
+							"m_Type": 1
+						},
+						{
+							"m_ArraySize": 0,
+							"m_ColCount": 1,
+							"m_Name": "pad2",
+							"m_Offset": 12,
+							"m_RowCount": 1,
+							"m_Type": 1
+						}
+					]
+				}
+			],
+			"m_KernelParents": [
+				{
+					"m_DynamicKeywords": [
+						
+					],
+					"m_GlobalKeywords": [
+						
+					],
+					"m_LocalKeywords": [
+						
+					],
+					"m_Name": "ReplaceTranslationTable",
+					"m_UniqueVariants": [
+						{
+							"m_BuiltinSamplers": [
+								
+							],
+							"m_Cbs": [
+								{
+									"m_BindPoint": 65536,
+									"m_GeneratedName": "",
+									"m_Name": "cbReplacementData",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_CbVariantIndices": [
+								0
+							],
+							"m_Code": "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",
+							"m_InBuffers": [
+								{
+									"m_BindPoint": 0,
+									"m_GeneratedName": "",
+									"m_Name": "_input_map",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_IsCompiled": false,
+							"m_Keywords": [
+								
+							],
+							"m_OutBuffers": [
+								{
+									"m_BindPoint": 33554433,
+									"m_GeneratedName": "",
+									"m_Name": "_output_buf",
+									"m_SamplerBindPoint": -1,
+									"m_TexDimension": -1
+								}
+							],
+							"m_Requirements": 16385,
+							"m_Textures": [
+								
+							],
+							"m_ThreadGroupSize": [
+								256,
+								1,
+								1
+							]
+						}
+					],
+					"m_VariantIndices": [
+						{
+							"Key": "",
+							"Value": 0
+						}
+					]
+				}
+			],
+			"m_NeedsReflectionData": false,
+			"m_ResourcesResolved": true,
+			"m_TargetLevel": 0,
+			"m_TargetRenderer": 21
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"m_BuildTextureStacks": [
+		
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 },
+	"m_CustomRenderQueue": -1,
+	"m_DisabledShaderPasses": [
+		
+	],
+	"m_DoubleSidedGI": false,
+	"m_EnableInstancingVariants": false,
+	"m_HideFlags": 0,
+	"m_InvalidKeywords": [
+		
+	],
+	"m_LightmapFlags": 4,
+	"m_LockedProperties": "",
+	"m_ModifiedSerializedProperties": 0,
+	"m_Name": "Anime Speed Lines",
+	"m_Parent": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 },
+	"m_SavedProperties": {
+		"m_Colors": {
+			"_Colour": {
+				"m_A": 1,
+				"m_B": 1,
+				"m_G": 1,
+				"m_R": 1
+			}
+		},
+		"m_Floats": {
+			"_MaskHardness": 0.25,
+			"_MaskPower": 5,
+			"_MaskScale": 0.95,
+			"_SpeedLinesAnimation": 3,
+			"_SpeedLinesPower": 0.9,
+			"_SpeedLinesRadialScale": 0.3,
+			"_SpeedLinesRemap": 0.7,
+			"_SpeedLinesTiling": 200
+		},
+		"m_Ints": {
+			
+		},
+		"m_TexEnvs": {
+			"_MainTex": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 }
+			},
+			"_texcoord": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 }
+			}
+		}
+	},
+	"m_Shader": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 82 },
+	"m_StringTagMap": {
+		
+	},
+	"m_ValidKeywords": [
+		
+	]
+}

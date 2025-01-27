@@ -1,0 +1,125 @@
+{
+	"m_BuildTextureStacks": [
+		
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "sharedassets8.assets", "m_PathID": 0 },
+	"m_CustomRenderQueue": -1,
+	"m_DisabledShaderPasses": [
+		
+	],
+	"m_DoubleSidedGI": false,
+	"m_EnableInstancingVariants": false,
+	"m_HideFlags": 0,
+	"m_InvalidKeywords": [
+		"_FLIPBOOKBLENDING_OFF"
+	],
+	"m_LightmapFlags": 4,
+	"m_LockedProperties": "",
+	"m_ModifiedSerializedProperties": 0,
+	"m_Name": "frame_particle",
+	"m_Parent": { "m_Collection": "sharedassets8.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "sharedassets8.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "sharedassets8.assets", "m_PathID": 0 },
+	"m_SavedProperties": {
+		"m_Colors": {
+			"_BaseColor": {
+				"m_A": 1,
+				"m_B": 1,
+				"m_G": 1,
+				"m_R": 1
+			},
+			"_BaseColorAddSubDiff": {
+				"m_A": 0,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_CameraFadeParams": {
+				"m_A": 0,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_Color": {
+				"m_A": 1,
+				"m_B": 1,
+				"m_G": 1,
+				"m_R": 1
+			},
+			"_EmissionColor": {
+				"m_A": 1,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_SoftParticleFadeParams": {
+				"m_A": 0,
+				"m_B": 0,
+				"m_G": 0,
+				"m_R": 0
+			},
+			"_TintColor": {
+				"m_A": 0.8784314,
+				"m_B": 1,
+				"m_G": 0.5896226,
+				"m_R": 0.8402347
+			}
+		},
+		"m_Floats": {
+			"_AlphaClip": 0,
+			"_Blend": 0,
+			"_BlendOp": 0,
+			"_CameraFadingEnabled": 0,
+			"_CameraFarFadeDistance": 2,
+			"_CameraNearFadeDistance": 1,
+			"_ColorMask": 15,
+			"_ColorMode": 0,
+			"_Cull": 2,
+			"_Cutoff": 0.5,
+			"_DistortionBlend": 0.5,
+			"_DistortionEnabled": 0,
+			"_DistortionStrength": 1,
+			"_DistortionStrengthScaled": 0.1,
+			"_DstBlend": 0,
+			"_FlipbookBlending": 0,
+			"_FlipbookMode": 0,
+			"_Mode": 0,
+			"_QueueOffset": 0,
+			"_SoftParticlesEnabled": 0,
+			"_SoftParticlesFarFadeDistance": 1,
+			"_SoftParticlesNearFadeDistance": 0,
+			"_SrcBlend": 1,
+			"_Stencil": 0,
+			"_StencilComp": 8,
+			"_StencilOp": 0,
+			"_StencilReadMask": 255,
+			"_StencilWriteMask": 255,
+			"_Surface": 0,
+			"_UseUIAlphaClip": 0,
+			"_ZWrite": 1
+		},
+		"m_Ints": {
+			
+		},
+		"m_TexEnvs": {
+			"_MainTex": {
+				"m_Offset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_Scale": {
+					"m_X": 1,
+					"m_Y": 1
+				},
+				"m_Texture": { "m_Collection": "sharedassets8.assets", "m_PathID": 52 }
+			}
+		}
+	},
+	"m_Shader": { "m_Collection": "sharedassets8.assets", "m_PathID": 52 },
+	"m_StringTagMap": {
+		
+	},
+	"m_ValidKeywords": [
+		
+	]
+}
